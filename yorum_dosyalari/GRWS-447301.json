@@ -1,0 +1,89 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "06 Aralık 2022",
+        "comment": "Harika bir tadı var. Erimiş sütlü çikolata gibi aynı. Memnun kaldım, kaliteli ürün",
+        "images": []
+    },
+    {
+        "author": "S** S** B**",
+        "rating": 5,
+        "date": "14 Eylül 2023",
+        "comment": "Gayet güzel tadı var. Paketleme de güzel. Son kullanma tarihi de oldukça iyi",
+        "images": []
+    },
+    {
+        "author": "Ç** A**",
+        "rating": 5,
+        "date": "17 Aralık 2024",
+        "comment": "Pastalarıma kullanıyorum Tadı çok güzel tavsiye ederim müşterilerim de beğendi🥰",
+        "images": []
+    },
+    {
+        "author": "Z** Ç**",
+        "rating": 5,
+        "date": "26 Ocak 2023",
+        "comment": "Tadı çok güzel beğendim🤌🤌🤌",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2042853/96012547/40899486-1674744617592.jpeg"
+        ]
+    },
+    {
+        "author": "B** K**",
+        "rating": 5,
+        "date": "02 Mayıs 2023",
+        "comment": "Çok güzeller çok",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2021916/2018925/96012547/70360437-1683035730680.jpeg"
+        ]
+    },
+    {
+        "author": "M** K**",
+        "rating": 5,
+        "date": "08 Ağustos 2023",
+        "comment": "Harika tavsıye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2024907/2024907/96012547/40139951-1691487760324.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "19 Aralık 2023",
+        "comment": "harika bir ürün bayıldım tavsiye ediyorum",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "26 Şubat 2025",
+        "comment": "Bitince tekrar aldığım süper bir çikolata",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2020919/2044847/96012547/115617303-1740557113317.jpeg"
+        ]
+    },
+    {
+        "author": "A** B**",
+        "rating": 4,
+        "date": "07 Aralık 2022",
+        "comment": "Ürün güzel kaliteli kargo hızlı",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2022913/96012547/46932160-1670398474886.jpeg"
+        ]
+    },
+    {
+        "author": "E** S**",
+        "rating": 5,
+        "date": "26 Kasım 2024",
+        "comment": "Çok güzel",
+        "images": []
+    },
+    {
+        "author": "B** A**",
+        "rating": 3,
+        "date": "14 Ocak 2024",
+        "comment": "Tadı abartıldığı kadar güzel değil",
+        "images": []
+    }
+]
