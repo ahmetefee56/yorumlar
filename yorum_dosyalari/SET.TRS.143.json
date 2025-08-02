@@ -1,0 +1,25 @@
+[
+    {
+        "author": "M** H**",
+        "rating": 5,
+        "date": "01 Temmuz 2024",
+        "comment": "Lotus seviyorsanız böyle almak çok uyguna geliyor.",
+        "images": []
+    },
+    {
+        "author": "T** S**",
+        "rating": 5,
+        "date": "05 Şubat 2024",
+        "comment": "Hızlıca ve sağlam elime ulaştı",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2022913/84844056/67640340-1707152027656.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "26 Mart 2025",
+        "comment": "uygun fiyatt",
+        "images": []
+    }
+]
