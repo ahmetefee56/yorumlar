@@ -1,0 +1,34 @@
+[
+    {
+        "author": "A** a**",
+        "rating": 5,
+        "date": "03 Temmuz 2024",
+        "comment": "çok iyi paketlenmiş çok beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2020919/39190399/118522407-1720017765798.jpeg"
+        ]
+    },
+    {
+        "author": "M** M** k**",
+        "rating": 5,
+        "date": "13 Haziran 2024",
+        "comment": "güzel ve kaliteli",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "05 Şubat 2024",
+        "comment": "Güzel ürün",
+        "images": []
+    },
+    {
+        "author": "S** A**",
+        "rating": 5,
+        "date": "06 Ağustos 2024",
+        "comment": "Güzel ürünnnn",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2025904/2023910/39190399/90317287-1722929763059.jpeg"
+        ]
+    }
+]
