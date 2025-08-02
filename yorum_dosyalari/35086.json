@@ -1,0 +1,25 @@
+[
+    {
+        "author": "o** K**",
+        "rating": 5,
+        "date": "05 Haziran 2024",
+        "comment": "Marka ve kalıte degısmıyor herr zaman sorunsuz urunler",
+        "images": []
+    },
+    {
+        "author": "N** E**",
+        "rating": 5,
+        "date": "11 Aralık 2023",
+        "comment": "ürün sağlam ve hızlı geldi",
+        "images": []
+    },
+    {
+        "author": "Ş** ç**",
+        "rating": 4,
+        "date": "12 Ekim 2023",
+        "comment": "çokta abartmaya gerek yok küçük bıçak daha iyi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2026901/2028895/38059806/33520344-1697082445886.jpeg"
+        ]
+    }
+]
