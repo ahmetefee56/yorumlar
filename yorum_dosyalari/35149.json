@@ -1,0 +1,53 @@
+[
+    {
+        "author": "A** T**",
+        "rating": 5,
+        "date": "30 Ekim 2022",
+        "comment": "Çok çok iyi kesinlikle her evde bulunmalı",
+        "images": []
+    },
+    {
+        "author": "M** A**",
+        "rating": 5,
+        "date": "05 Aralık 2022",
+        "comment": "Anneme hediye aldım cok begendı. Baya keskin, kullanıslı bıcaklar",
+        "images": []
+    },
+    {
+        "author": "F** K**",
+        "rating": 5,
+        "date": "28 Ocak 2023",
+        "comment": "Çok kullanışlıı",
+        "images": []
+    },
+    {
+        "author": "M** Ö**",
+        "rating": 5,
+        "date": "19 Ağustos 2024",
+        "comment": "ev için aldım çok iyi",
+        "images": []
+    },
+    {
+        "author": "Betül B.",
+        "rating": 5,
+        "date": "10 Ocak 2023",
+        "comment": "Kesinlikle alınması gereken bir ürün",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "10 Haziran 2023",
+        "comment": "çok güzel kesiyor ,beğendim.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2026901/39225160/93809694-1686427643654.jpeg"
+        ]
+    },
+    {
+        "author": "R** G**",
+        "rating": 5,
+        "date": "09 Mayıs 2023",
+        "comment": "Pirge kalitesi.. çok keskin",
+        "images": []
+    }
+]
