@@ -1,0 +1,28 @@
+[
+    {
+        "author": "E** K**",
+        "rating": 5,
+        "date": "30 Kasım 2024",
+        "comment": "Çok uygun ve lezzetli bir ürün",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2047838/804904049/15782969-1732951186142.jpeg"
+        ]
+    },
+    {
+        "author": "N** Ü**",
+        "rating": 5,
+        "date": "05 Ağustos 2024",
+        "comment": "o kadar lezzetli ki mükemmel",
+        "images": []
+    },
+    {
+        "author": "Y** A**",
+        "rating": 5,
+        "date": "11 Ocak 2025",
+        "comment": "Muhallebiye cok yakışıyor",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2019922/2029892/804904049/91256743-1736546685716.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2018925/2019922/2029892/804904049/91256743-1736546686343.jpeg"
+        ]
+    }
+]
