@@ -1,0 +1,58 @@
+[
+    {
+        "author": "Ö** N** G**",
+        "rating": 5,
+        "date": "27 Mayıs 2023",
+        "comment": "Çok güzel bir tadı var .Kesinlikle tavsiye ederim",
+        "images": []
+    },
+    {
+        "author": "F** Ü**",
+        "rating": 5,
+        "date": "26 Ocak 2023",
+        "comment": "çok güzel bir tadı var",
+        "images": []
+    },
+    {
+        "author": "K** K** B**",
+        "rating": 5,
+        "date": "23 Haziran 2023",
+        "comment": "Çok güzel kesinlikle tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2039862/46413810/4278256-1687470990646.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2039862/46413810/4278256-1687470991264.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "29 Temmuz 2025",
+        "comment": "Gayet güzel tat",
+        "images": []
+    },
+    {
+        "author": "S** K**",
+        "rating": 5,
+        "date": "30 Haziran 2023",
+        "comment": "güzel beğendik. fiyat performans ürünü diyebiliriz.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2046841/46413810/97575217-1688141734348.jpeg"
+        ]
+    },
+    {
+        "author": "t** y**",
+        "rating": 5,
+        "date": "06 Ağustos 2023",
+        "comment": "Sahane tadi var soslarin her cesidini aldim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2024907/2022913/46413810/21011146-1691271586784.jpeg"
+        ]
+    },
+    {
+        "author": "Ş** Z**",
+        "rating": 3,
+        "date": "07 Aralık 2022",
+        "comment": "Çok cıvık aroması",
+        "images": []
+    }
+]
