@@ -1,0 +1,46 @@
+[
+    {
+        "author": "K** B**",
+        "rating": 5,
+        "date": "13 Haziran 2023",
+        "comment": "henüz kullanmadım ama pirge kalitesine güvendiğim için sipariş ettim teşekkürler 👏.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2029892/66506480/52550674-1686670963443.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2029892/66506480/52550674-1686670964226.jpeg"
+        ]
+    },
+    {
+        "author": "Ayşegül G.",
+        "rating": 5,
+        "date": "17 Kasım 2023",
+        "comment": "Üç tane aldım",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2033880/66506480/106650948-1700251354321.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2033880/66506480/106650948-1700251353130.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2033880/66506480/106650948-1700251353731.jpeg"
+        ]
+    },
+    {
+        "author": "P** K**",
+        "rating": 5,
+        "date": "28 Ocak 2023",
+        "comment": "İşlevi çok güzel bir ürün",
+        "images": []
+    },
+    {
+        "author": "S** B**",
+        "rating": 5,
+        "date": "21 Kasım 2023",
+        "comment": "Çok memnunum.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2037868/66506480/15816999-1700596661029.jpeg"
+        ]
+    },
+    {
+        "author": "M** Ç** k**",
+        "rating": 5,
+        "date": "26 Kasım 2023",
+        "comment": "Yedeklediğim bir ürün olurda üretimden kalkarsa diye. Hemencecik yağ gibi akıyor soyuyor sebzeleri.",
+        "images": []
+    }
+]
