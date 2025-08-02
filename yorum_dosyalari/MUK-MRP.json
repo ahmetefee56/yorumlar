@@ -1,0 +1,42 @@
+[
+    {
+        "author": "Fatoş K.",
+        "rating": 5,
+        "date": "30 Ocak 2024",
+        "comment": "Beklediğim gibi güzel geldi.Kaliteli,dağılma, yırtılma gibi bir durum olmadı.Hemen kullandım.Begendim",
+        "images": []
+    },
+    {
+        "author": "s** s**",
+        "rating": 5,
+        "date": "09 Mart 2025",
+        "comment": "sağlam bir şekilde ulaştı, kağıtları kalın sayılır beğendim",
+        "images": []
+    },
+    {
+        "author": "ı** a**",
+        "rating": 5,
+        "date": "29 Kasım 2024",
+        "comment": "istediğimiz gibi teşekkürler ❤️",
+        "images": []
+    },
+    {
+        "author": "seza_iscan_celik",
+        "rating": 5,
+        "date": "07 Nisan 2025",
+        "comment": "Ürün aynı fotoğraflarda gözüktüğü gibi geldi. Ben dondurucuya cheesecake yapmak için aldım.",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2022913/2025904/773247771/5460959-1744057327489.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2022913/2025904/773247771/5460959-1744057326745.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "16 Mayıs 2025",
+        "comment": "guzel kaliteli",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2023910/2034877/773247771/48043670-1747416692136.jpeg"
+        ]
+    }
+]
