@@ -1,0 +1,42 @@
+[
+    {
+        "author": "A** E**",
+        "rating": 4,
+        "date": "09 Nisan 2023",
+        "comment": "tavsiye ederimm",
+        "images": []
+    },
+    {
+        "author": "Nazlı A.",
+        "rating": 5,
+        "date": "16 Aralık 2023",
+        "comment": "Güzel ve sağlam geldi teşekkürler",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2032883/42062206/21257630-1702712808075.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2032883/42062206/21257630-1702712809059.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "02 Aralık 2022",
+        "comment": "en uygun satıcı. tarıhı de uzun",
+        "images": []
+    },
+    {
+        "author": "T** K**",
+        "rating": 3,
+        "date": "13 Mart 2024",
+        "comment": "Merhaba ben pastacı kreması sipariş verdim, krem şanti göndermişler. Şanti olarak kullanmadım ama kaliteli güzel bir marka olduğu için pastacı kremasını yıllardır kullanıyorum",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2020919/2030889/42062206/29928190-1710319799195.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "11 Ağustos 2022",
+        "comment": "En iyisi ama fiyatlar daha yükselmesin nedir böyle ya",
+        "images": []
+    }
+]
