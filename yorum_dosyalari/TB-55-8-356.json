@@ -1,0 +1,35 @@
+[
+    {
+        "author": "M** J**",
+        "rating": 3,
+        "date": "09 Mart 2023",
+        "comment": "Beyaz cikolata sadece 2 ay tuketim suresi var",
+        "images": []
+    },
+    {
+        "author": "K** E** M**",
+        "rating": 5,
+        "date": "24 Ekim 2024",
+        "comment": "Kaliteli hizmet, Ahmet Beye selamlar, Lorem Çikolata Ve Kahve.",
+        "images": []
+    },
+    {
+        "author": "k** b**",
+        "rating": 4,
+        "date": "25 Şubat 2023",
+        "comment": "lezzeti güzel ama kutunun içinde posetli gelseydi cikolata daha iyi olurdu müdavimleri öyle yapıyor.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2041856/42638486/8801084-1677337201608.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2041856/42638486/8801084-1677337200903.jpeg"
+        ]
+    },
+    {
+        "author": "C** A** Y**",
+        "rating": 3,
+        "date": "18 Aralık 2023",
+        "comment": "Sanki ürün bayatmış gibi üzerinde beyazlıklar mevcut ambalajı açıp kızım tükettiği için iade edemedim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2034877/42638486/4806275-1702894853021.jpeg"
+        ]
+    }
+]
