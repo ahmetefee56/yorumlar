@@ -1,0 +1,53 @@
+[
+    {
+        "author": "M** D**",
+        "rating": 5,
+        "date": "02 Temmuz 2023",
+        "comment": "bir daha sipariş verdik. gözleme de falan kullaniyoruz",
+        "images": []
+    },
+    {
+        "author": "K** N** A**",
+        "rating": 5,
+        "date": "15 Ağustos 2023",
+        "comment": "poğaça kurabiye için kullanıyorum çok iyi",
+        "images": []
+    },
+    {
+        "author": "n** s**",
+        "rating": 5,
+        "date": "18 Ocak 2025",
+        "comment": "kurabiye için kullanıyorum harika oluyor",
+        "images": []
+    },
+    {
+        "author": "Gazele B.",
+        "rating": 4,
+        "date": "06 Nisan 2023",
+        "comment": "Kurabiyede denedim mükemmel oldu",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "02 Kasım 2023",
+        "comment": "Hemen açma yaptım gayet lezzetli oldu tesekkurler",
+        "images": []
+    },
+    {
+        "author": "N** F**",
+        "rating": 4,
+        "date": "11 Mayıs 2025",
+        "comment": "Tüm pogaca ve hamur işlerini bununla yapıyoruz 👍",
+        "images": []
+    },
+    {
+        "author": "M** K**",
+        "rating": 4,
+        "date": "29 Mart 2023",
+        "comment": "ürünler tam kıvamında tutuyor, Alba zaten daha önce kullandığım bir yağ. bir yıldız paketlemeden kaynaklı kırdım.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2045844/70524552/26435301-1680117448217.jpeg"
+        ]
+    }
+]
