@@ -1,0 +1,18 @@
+[
+    {
+        "author": "P** M**",
+        "rating": 5,
+        "date": "06 Ağustos 2024",
+        "comment": "lezzetli,pratik beğendim.",
+        "images": []
+    },
+    {
+        "author": "R** I**",
+        "rating": 5,
+        "date": "02 Ocak 2023",
+        "comment": "bu tür şeylerde çok hazır tercih eden birisi değilim, ancak vaktim olmadığı zaman aşırı kolaylık oluyor. tadı fena değil gayet güzel",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2018925/85524426/74233374-1672662700497.jpeg"
+        ]
+    }
+]
