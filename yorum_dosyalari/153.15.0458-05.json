@@ -1,0 +1,23 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "08 Haziran 2025",
+        "comment": "Çok güzel bir ürün",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2024907/2026901/854162383/81814304-1749358514867.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2024907/2026901/854162383/81814304-1749358515335.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2024907/2026901/854162383/81814304-1749358515999.jpeg"
+        ]
+    },
+    {
+        "author": "A** K** Ü**",
+        "rating": 5,
+        "date": "26 Mayıs 2025",
+        "comment": "Teşekkürler",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2023910/2044847/854162383/25748586-1748209088943.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2023910/2044847/854162383/25748586-1748209089961.jpeg"
+        ]
+    }
+]
