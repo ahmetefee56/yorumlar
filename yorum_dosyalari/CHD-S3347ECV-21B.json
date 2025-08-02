@@ -1,0 +1,64 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "01 Nisan 2023",
+        "comment": "Kırılmadan erimeden elime ulaştı tadı çok güzel şekeri tam ayarında kokusu çok güzel",
+        "images": []
+    },
+    {
+        "author": "D** U**",
+        "rating": 5,
+        "date": "08 Ağustos 2022",
+        "comment": "Tam bir callebaut diyemem ama fiyatına göre iyi..evdeki herkes beğendi.. fiyat performans ürünü",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "16 Ağustos 2022",
+        "comment": "Türkiye  ürünü olmasına rağmen başarılı kıvamı güzel",
+        "images": []
+    },
+    {
+        "author": "h** o** k**",
+        "rating": 3,
+        "date": "06 Nisan 2023",
+        "comment": "bir callebaut gibi değil ticari olarak dökme çikolata kaplama çikolata çok elverişli değil plastik kalıptan bile iyi bir temperleme sonucu mat çıkıyor zamanlada matlasiyor ama kek sufle spangle için iyi",
+        "images": []
+    },
+    {
+        "author": "s** ö**",
+        "rating": 5,
+        "date": "02 Eylül 2023",
+        "comment": "Müthiş. Şu sıcak yaz gününde erimesin diye yalıtımlı pakette ve paketin içine buz koyarak göndermişler. Ürünün tüketim tarihine 1 sene vardi yaklaşık olarak.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2025904/2018925/302298919/21056260-1693646293557.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "07 Aralık 2024",
+        "comment": "Paketleme, dadı çox eladi. Məsləhət gorurem",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2029892/2024907/302298919/161017556-1733597307598.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2029892/2024907/302298919/161017556-1733597308158.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2029892/2024907/302298919/161017556-1733597308694.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "27 Temmuz 2023",
+        "comment": "Kaliteli ve güzel",
+        "images": []
+    },
+    {
+        "author": "Hasan A. K.",
+        "rating": 5,
+        "date": "16 Temmuz 2023",
+        "comment": "Başarılı gayet güzel",
+        "images": []
+    }
+]
