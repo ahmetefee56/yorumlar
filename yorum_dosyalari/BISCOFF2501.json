@@ -1,0 +1,34 @@
+[
+    {
+        "author": "Y** B**",
+        "rating": 5,
+        "date": "15 Ekim 2022",
+        "comment": "Elime çok iyi ulaştı paketlemede gayet iyiydi",
+        "images": []
+    },
+    {
+        "author": "M** A**",
+        "rating": 5,
+        "date": "10 Aralık 2023",
+        "comment": "Ürün paketleme iyiydi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2026901/46931785/5022740-1702235474217.jpeg"
+        ]
+    },
+    {
+        "author": "Z** Ş**",
+        "rating": 5,
+        "date": "05 Mart 2024",
+        "comment": "Lezzeti çok iyi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2020919/2022913/46931785/26267863-1709646581103.jpeg"
+        ]
+    },
+    {
+        "author": "R** K**",
+        "rating": 5,
+        "date": "20 Aralık 2023",
+        "comment": "Tazeydi, hızlı ulaştı",
+        "images": []
+    }
+]
