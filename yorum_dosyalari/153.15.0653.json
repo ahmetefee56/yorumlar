@@ -1,0 +1,53 @@
+[
+    {
+        "author": "n** b**",
+        "rating": 5,
+        "date": "16 Ekim 2023",
+        "comment": "kurabiye yaptım çok güzel bir renk verdi tadını değiştirmedi çok güzel",
+        "images": []
+    },
+    {
+        "author": "B** T**",
+        "rating": 3,
+        "date": "14 Ağustos 2022",
+        "comment": "Pembe pankek,pembe kek falan denedik. Kızımın hoşuna gitti,kekin içinde tam olarak pembe durmuyor tabiki ama iş gördü.",
+        "images": []
+    },
+    {
+        "author": "Ç** B**",
+        "rating": 5,
+        "date": "14 Ağustos 2022",
+        "comment": "Paketleme güzel",
+        "images": []
+    },
+    {
+        "author": "n** g**",
+        "rating": 5,
+        "date": "05 Şubat 2023",
+        "comment": "tatlı Bi pembe kremayı krem şantiye kurabiye hepsine katıp denedik gayet güzel",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2021916/37805305/4285607-1675545525856.jpeg"
+        ]
+    },
+    {
+        "author": "F** C**",
+        "rating": 5,
+        "date": "15 Ağustos 2023",
+        "comment": "Renk çok güzeldi",
+        "images": []
+    },
+    {
+        "author": "B** K**",
+        "rating": 4,
+        "date": "07 Ocak 2023",
+        "comment": "Güzel ürün",
+        "images": []
+    },
+    {
+        "author": "E** A** Ö**",
+        "rating": 5,
+        "date": "22 Ağustos 2022",
+        "comment": "Çok güzellll",
+        "images": []
+    }
+]
