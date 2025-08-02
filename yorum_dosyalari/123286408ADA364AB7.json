@@ -1,0 +1,33 @@
+[
+    {
+        "author": "E** S**",
+        "rating": 4,
+        "date": "01 Temmuz 2025",
+        "comment": "Boyutu iyi şirin bir kap, çabuk ulaştı elime",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2025904/2019922/666077083/14720206-1751362565037.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2025904/2019922/666077083/14720206-1751362566005.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2025904/2019922/666077083/14720206-1751362564018.jpeg"
+        ]
+    },
+    {
+        "author": "T** A**",
+        "rating": 5,
+        "date": "03 Şubat 2024",
+        "comment": "Okul beslenmesinde kullanacağım boyutu ideal",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2020919/666077083/19120607-1706946793592.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2020919/666077083/19120607-1706946793459.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2020919/666077083/19120607-1706946793279.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 4,
+        "date": "01 Aralık 2023",
+        "comment": "kargom zamaninda geldi ve ürün de fotoğraflarda göründüğü gibi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2017928/666077083/15676959-1701433814567.jpeg"
+        ]
+    }
+]
