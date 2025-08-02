@@ -1,0 +1,41 @@
+[
+    {
+        "author": "y** k**",
+        "rating": 5,
+        "date": "15 Eylül 2023",
+        "comment": "Paketlemesi güzeldi ürünler kırılmamış sadece tüketim tarihi çok yakın 30/11/2023",
+        "images": []
+    },
+    {
+        "author": "A** T** k**",
+        "rating": 5,
+        "date": "26 Haziran 2023",
+        "comment": "indirimde cok uyguna alip bitiremedigim bisküvi",
+        "images": []
+    },
+    {
+        "author": "F** D** M**",
+        "rating": 5,
+        "date": "13 Mayıs 2023",
+        "comment": "Çok güzel olmuş çok teşekkür ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2021916/2029892/307381188/44803760-1683928712360.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2021916/2029892/307381188/44803760-1683928711656.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2021916/2029892/307381188/44803760-1683928712067.jpeg"
+        ]
+    },
+    {
+        "author": "F** G**",
+        "rating": 5,
+        "date": "18 Temmuz 2024",
+        "comment": "gayet güzel ve uygun",
+        "images": []
+    },
+    {
+        "author": "H** D**",
+        "rating": 5,
+        "date": "06 Nisan 2023",
+        "comment": "Biraz paketler ezik geldi ama iyi",
+        "images": []
+    }
+]
