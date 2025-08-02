@@ -1,0 +1,62 @@
+[
+    {
+        "author": "Ceren Y.",
+        "rating": 5,
+        "date": "02 Nisan 2025",
+        "comment": "ceyizime aldım kullanışlı",
+        "images": []
+    },
+    {
+        "author": "F** A**",
+        "rating": 5,
+        "date": "06 Ekim 2022",
+        "comment": "So handy while decorating cake, or kneading adough or a tart dough",
+        "images": []
+    },
+    {
+        "author": "S** b** O**",
+        "rating": 5,
+        "date": "17 Nisan 2024",
+        "comment": "Memnun kaldım",
+        "images": []
+    },
+    {
+        "author": "B** G**",
+        "rating": 4,
+        "date": "19 Mayıs 2024",
+        "comment": "Paketleme özenli, hızlı kargo",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2022913/2036871/49158453/6493995-1716117141142.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "30 Ağustos 2022",
+        "comment": "Pasta yaparken spatulayla yeterince düzleştiremiyordum. Bunlarla daha rahat pasta yapabiliyorum.",
+        "images": []
+    },
+    {
+        "author": "N** B**",
+        "rating": 5,
+        "date": "24 Aralık 2023",
+        "comment": "Güzel beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2040859/49158453/67847809-1703435642976.jpeg"
+        ]
+    },
+    {
+        "author": "E** N**",
+        "rating": 5,
+        "date": "04 Mart 2025",
+        "comment": "Kullanmadım çeyizlil",
+        "images": []
+    },
+    {
+        "author": "G** G**",
+        "rating": 5,
+        "date": "17 Mart 2025",
+        "comment": "Fiyat performans.",
+        "images": []
+    }
+]
