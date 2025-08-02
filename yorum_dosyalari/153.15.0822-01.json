@@ -1,0 +1,57 @@
+[
+    {
+        "author": "E** A**",
+        "rating": 5,
+        "date": "08 Nisan 2024",
+        "comment": "yeğenimin doğum günü için alsik güzel",
+        "images": []
+    },
+    {
+        "author": "M** E**",
+        "rating": 4,
+        "date": "03 Eylül 2024",
+        "comment": "çok güzel renk veriyor pasta yapımı için kullaniyorum güzel ürün",
+        "images": []
+    },
+    {
+        "author": "Elif G.",
+        "rating": 5,
+        "date": "25 Mart 2024",
+        "comment": "Çok iyi teşekkür ederim 😍",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2020919/2042853/36410856/102687615-1711391769966.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "07 Ocak 2024",
+        "comment": "Çok güzle kaliteli",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "16 Haziran 2025",
+        "comment": "Sorun yaşamadım. Kendiside, paketlemeside gayet iyiydi.",
+        "images": []
+    },
+    {
+        "author": "B** Y**",
+        "rating": 5,
+        "date": "10 Kasım 2024",
+        "comment": "Teşekkürler",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2027898/36410856/9887283-1731256999971.jpeg"
+        ]
+    },
+    {
+        "author": "H** Y**",
+        "rating": 5,
+        "date": "26 Mart 2024",
+        "comment": "Gayet iyi, beklediğimden iyi geldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2020919/2043850/36410856/21711520-1711421008452.jpeg"
+        ]
+    }
+]
