@@ -1,0 +1,39 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "28 Ağustos 2022",
+        "comment": "1 yas pastamiz için aldık çok güzeldi hemen kıvama geldi 🥰",
+        "images": []
+    },
+    {
+        "author": "P** K**",
+        "rating": 5,
+        "date": "03 Aralık 2022",
+        "comment": "guzel kalite yumusak renkler tam gorundugu gibi",
+        "images": []
+    },
+    {
+        "author": "D** B**",
+        "rating": 5,
+        "date": "26 Kasım 2022",
+        "comment": "Çok tatlı bir renk kolay şekil alıyor",
+        "images": []
+    },
+    {
+        "author": "ş** a**",
+        "rating": 5,
+        "date": "28 Aralık 2022",
+        "comment": "ürün güzel pastaları mı güzelleştirdi krgo aşamasında da sıkıntı yaşamadım",
+        "images": []
+    },
+    {
+        "author": "B** K**",
+        "rating": 5,
+        "date": "04 Aralık 2022",
+        "comment": "Rengi toz pembeydi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2019922/83147292/13679266-1670102948787.jpeg"
+        ]
+    }
+]
