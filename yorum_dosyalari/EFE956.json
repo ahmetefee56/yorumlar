@@ -1,0 +1,55 @@
+[
+    {
+        "author": "Ş** D**",
+        "rating": 5,
+        "date": "18 Haziran 2025",
+        "comment": "kullanışlı tek kişilik pastalar için",
+        "images": []
+    },
+    {
+        "author": "Y** D**",
+        "rating": 5,
+        "date": "15 Şubat 2025",
+        "comment": "kaliteli ürün",
+        "images": []
+    },
+    {
+        "author": "S** G**",
+        "rating": 5,
+        "date": "16 Mayıs 2025",
+        "comment": "Güzel ürün tşk.",
+        "images": []
+    },
+    {
+        "author": "G** S**",
+        "rating": 5,
+        "date": "15 Haziran 2025",
+        "comment": "Sunum için güzel",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "22 Kasım 2024",
+        "comment": "Hızlı geldi teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "N** Ç**",
+        "rating": 5,
+        "date": "25 Haziran 2025",
+        "comment": "Tam istediğim boyutta görseldekiyle aynı ürün geldi porsiyonluk pasta için yeterli",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2024907/2043850/752650070/97267183-1750883963289.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2024907/2043850/752650070/97267183-1750883961958.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2024907/2043850/752650070/97267183-1750883962591.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "02 Mayıs 2025",
+        "comment": "Ürün kaliteli",
+        "images": []
+    }
+]
