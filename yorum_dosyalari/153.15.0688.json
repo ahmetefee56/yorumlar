@@ -1,0 +1,25 @@
+[
+    {
+        "author": "L** B**",
+        "rating": 5,
+        "date": "12 Mart 2024",
+        "comment": "begendım çok iyi",
+        "images": []
+    },
+    {
+        "author": "A** E**",
+        "rating": 5,
+        "date": "23 Aralık 2022",
+        "comment": "Güzel renk veriyor memnunum",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2038865/37805046/12744098-1671798177951.jpeg"
+        ]
+    },
+    {
+        "author": "T** Ö**",
+        "rating": 3,
+        "date": "06 Ağustos 2022",
+        "comment": "Tamamını kullandım anca siyah oldu",
+        "images": []
+    }
+]
