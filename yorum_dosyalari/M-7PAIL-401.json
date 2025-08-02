@@ -1,0 +1,39 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "04 Ocak 2025",
+        "comment": "Çok lezzetli ikinci kez sipariş verdim",
+        "images": []
+    },
+    {
+        "author": "M** G**",
+        "rating": 5,
+        "date": "02 Mart 2024",
+        "comment": "Callebaut kalitesi şaşmaz fiyatı çok uygun",
+        "images": []
+    },
+    {
+        "author": "T** K**",
+        "rating": 5,
+        "date": "12 Haziran 2023",
+        "comment": "Güzel tekrar sipariş verdim taze geliyor",
+        "images": []
+    },
+    {
+        "author": "A** D**",
+        "rating": 5,
+        "date": "12 Şubat 2023",
+        "comment": "Çok güzel tadı harika",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2028895/41851526/17732744-1676215152428.jpeg"
+        ]
+    },
+    {
+        "author": "L** B**",
+        "rating": 5,
+        "date": "16 Mayıs 2023",
+        "comment": "Kokusu,tadı mukemmel",
+        "images": []
+    }
+]
