@@ -1,0 +1,68 @@
+[
+    {
+        "author": "c** T**",
+        "rating": 5,
+        "date": "10 Kasım 2022",
+        "comment": "guzel kolay şekil aldı elsa figürümüz",
+        "images": []
+    },
+    {
+        "author": "A** K**",
+        "rating": 5,
+        "date": "07 Ocak 2023",
+        "comment": "Gayet güzel şeker hamuru",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2023910/97021868/23018811-1673109334293.jpeg"
+        ]
+    },
+    {
+        "author": "B** A**",
+        "rating": 5,
+        "date": "11 Aralık 2024",
+        "comment": "Çok güzel kıvamı tadı aşırı beğendim",
+        "images": []
+    },
+    {
+        "author": "z** Z**",
+        "rating": 5,
+        "date": "27 Ocak 2023",
+        "comment": "Kaliteli ürün",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "21 Ekim 2024",
+        "comment": "cok güzel ürün",
+        "images": []
+    },
+    {
+        "author": "B** T**",
+        "rating": 4,
+        "date": "06 Ekim 2022",
+        "comment": "Sorunsuz geldi, yapışma olmadı 👍🏻",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2025904/2021916/97021868/9823963-1665053828966.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "17 Ocak 2023",
+        "comment": "normal standart",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2033880/97021868/45633284-1673986974958.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2033880/97021868/45633284-1673986975375.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2033880/97021868/45633284-1673986974419.jpeg"
+        ]
+    },
+    {
+        "author": "E** Ş**",
+        "rating": 5,
+        "date": "25 Kasım 2024",
+        "comment": "Ürünü çok beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2042853/97021868/14581431-1732537281123.jpeg"
+        ]
+    }
+]
