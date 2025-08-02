@@ -1,0 +1,555 @@
+[
+    {
+        "author": "M** K**",
+        "rating": 5,
+        "date": "01 Nisan 2023",
+        "comment": "anneme aldım çok işe yaradı",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "31 Ocak 2024",
+        "comment": "Satıcı ürünü jet hızıyla kargoya verdi. Harika bir masat. Kesinlikle düşünmeden alın.",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "08 Mayıs 2023",
+        "comment": "paketleme sağlam  yapılmıştı ürunude begendim herşey çok iyi alınabilir güvenle",
+        "images": []
+    },
+    {
+        "author": "B** B**",
+        "rating": 5,
+        "date": "24 Mart 2024",
+        "comment": "Ürün gayet güzel paketleme de iyiydi beğendim",
+        "images": []
+    },
+    {
+        "author": "a** k**",
+        "rating": 5,
+        "date": "31 Mart 2023",
+        "comment": "aynen fotoğraf takı gibi beğendiğim",
+        "images": []
+    },
+    {
+        "author": "A** A**",
+        "rating": 5,
+        "date": "20 Haziran 2023",
+        "comment": "Kurban ayı yaklaşıyor gayet güzel ve ideal hızlı kargo teşekürler",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2036871/37825354/67536845-1687252706310.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2036871/37825354/67536845-1687252705202.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2036871/37825354/67536845-1687252705839.jpeg"
+        ]
+    },
+    {
+        "author": "b** ç**",
+        "rating": 5,
+        "date": "17 Kasım 2023",
+        "comment": "güzel masat",
+        "images": []
+    },
+    {
+        "author": "R** K**",
+        "rating": 5,
+        "date": "12 Mart 2024",
+        "comment": "çok güzel bayldım bu fiyata çok çok iyi",
+        "images": []
+    },
+    {
+        "author": "Y** Ş** K**",
+        "rating": 5,
+        "date": "19 Mart 2023",
+        "comment": "Saklaması kolay, bilemesi iyi.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2035874/37825354/13829159-1679248281325.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2035874/37825354/13829159-1679248280805.jpeg"
+        ]
+    },
+    {
+        "author": "A** B**",
+        "rating": 5,
+        "date": "19 Eylül 2023",
+        "comment": "teşekkürler",
+        "images": []
+    },
+    {
+        "author": "Sıdıka G.",
+        "rating": 5,
+        "date": "11 Kasım 2023",
+        "comment": "Çok iyi başarılı kargo da üründe",
+        "images": []
+    },
+    {
+        "author": "Servet A.",
+        "rating": 5,
+        "date": "21 Haziran 2023",
+        "comment": "Eşimin siparişi beğendi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2037868/37825354/46423345-1687341609208.jpeg"
+        ]
+    },
+    {
+        "author": "E** Ç**",
+        "rating": 5,
+        "date": "23 Mayıs 2023",
+        "comment": "teşekkür ederim güzel bir ürün 👍",
+        "images": []
+    },
+    {
+        "author": "A** U** K**",
+        "rating": 5,
+        "date": "30 Ekim 2023",
+        "comment": "Kullanışlı kaliteli",
+        "images": []
+    },
+    {
+        "author": "E** Ç**",
+        "rating": 5,
+        "date": "06 Haziran 2023",
+        "comment": "o kadar elektronik çıkmış ne varsa bunlarda var tüm bıçaklar mükemmel oldu",
+        "images": []
+    },
+    {
+        "author": "ü** u**",
+        "rating": 5,
+        "date": "24 Mayıs 2023",
+        "comment": "Harika ürün sonunda dogru ürüne kavustum",
+        "images": []
+    },
+    {
+        "author": "G** S**",
+        "rating": 5,
+        "date": "25 Mayıs 2023",
+        "comment": "Ürün çok kaliteli",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "17 Nisan 2023",
+        "comment": "Ekmek bıçağı alınca masat da aldım ama bıçak o kadar keskin ki gerek yokmuş☺️çok güzeller. Eşim bayıldı.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2033880/37825354/62669657-1681734864171.jpeg"
+        ]
+    },
+    {
+        "author": "n** Ş**",
+        "rating": 5,
+        "date": "31 Temmuz 2024",
+        "comment": "Masat gayet iyi her eve lazım",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2048835/37825354/13310504-1722458278694.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2048835/37825354/13310504-1722458278097.jpeg"
+        ]
+    },
+    {
+        "author": "m** s** a**",
+        "rating": 5,
+        "date": "29 Aralık 2023",
+        "comment": "teşekkürler.",
+        "images": []
+    },
+    {
+        "author": "Adem D.",
+        "rating": 5,
+        "date": "18 Şubat 2024",
+        "comment": "Fiyat performans ürünü, tavsiye edilir.",
+        "images": []
+    },
+    {
+        "author": "R** Ö**",
+        "rating": 5,
+        "date": "10 Haziran 2023",
+        "comment": "çok keskin çok güzel",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2026901/37825354/33064871-1686393337752.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2026901/37825354/33064871-1686393338511.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2026901/37825354/33064871-1686393339124.jpeg"
+        ]
+    },
+    {
+        "author": "A** D**",
+        "rating": 5,
+        "date": "13 Nisan 2023",
+        "comment": "Güzel beğendim",
+        "images": []
+    },
+    {
+        "author": "S** K**",
+        "rating": 5,
+        "date": "06 Nisan 2023",
+        "comment": "Beğendimmm teşekkür ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2022913/37825354/8143954-1680763761507.jpeg"
+        ]
+    },
+    {
+        "author": "Y** G**",
+        "rating": 5,
+        "date": "05 Nisan 2023",
+        "comment": "ürün mükemmel tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2021916/37825354/19890671-1680704251180.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2021916/37825354/19890671-1680704251828.jpeg"
+        ]
+    },
+    {
+        "author": "Furkan u.",
+        "rating": 5,
+        "date": "07 Aralık 2023",
+        "comment": "Fiyat performans ürünü memnun kaldım",
+        "images": []
+    },
+    {
+        "author": "O** Ö**",
+        "rating": 5,
+        "date": "16 Temmuz 2024",
+        "comment": "evde bıçakları bileylemek artık bu ürünle çok kolay",
+        "images": []
+    },
+    {
+        "author": "B** Ş**",
+        "rating": 5,
+        "date": "13 Mayıs 2023",
+        "comment": "Süper çok beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2021916/2029892/37825354/38726530-1684000276060.jpeg"
+        ]
+    },
+    {
+        "author": "Y** Z** Ç**",
+        "rating": 5,
+        "date": "24 Mayıs 2023",
+        "comment": "guzel iş çıkartıyor.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2021916/2040859/37825354/11769294-1684938307589.jpeg"
+        ]
+    },
+    {
+        "author": "G** G**",
+        "rating": 3,
+        "date": "07 Nisan 2023",
+        "comment": "Güzel gibi duruyor",
+        "images": []
+    },
+    {
+        "author": "Z** Ö**",
+        "rating": 4,
+        "date": "24 Mayıs 2024",
+        "comment": "pirge kalitesi. 👌",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "08 Mart 2024",
+        "comment": "Çok iyi çok beğendim",
+        "images": []
+    },
+    {
+        "author": "S** Y**",
+        "rating": 5,
+        "date": "11 Haziran 2024",
+        "comment": "Ürün çok beyenildi",
+        "images": []
+    },
+    {
+        "author": "Onur A.",
+        "rating": 5,
+        "date": "23 Ocak 2023",
+        "comment": "ürün güzel bıcakları güzel biledi.tavsiye ederim",
+        "images": []
+    },
+    {
+        "author": "S** T**",
+        "rating": 5,
+        "date": "01 Aralık 2023",
+        "comment": "Fiyatına göre çok iyi bir ürün",
+        "images": []
+    },
+    {
+        "author": "B** K**",
+        "rating": 5,
+        "date": "04 Aralık 2024",
+        "comment": "Gayet güzel bir ürün",
+        "images": []
+    },
+    {
+        "author": "A** Ö**",
+        "rating": 5,
+        "date": "04 Aralık 2023",
+        "comment": "Begenerek kullaniyoruz",
+        "images": []
+    },
+    {
+        "author": "M** A**",
+        "rating": 5,
+        "date": "23 Mayıs 2024",
+        "comment": "Gayet güzel bir ürün.",
+        "images": []
+    },
+    {
+        "author": "K** T**",
+        "rating": 5,
+        "date": "20 Haziran 2023",
+        "comment": "Ürün çok iyi",
+        "images": []
+    },
+    {
+        "author": "E** S**",
+        "rating": 5,
+        "date": "12 Mayıs 2025",
+        "comment": "Güzel Ürün Beğendim",
+        "images": []
+    },
+    {
+        "author": "E** A**",
+        "rating": 5,
+        "date": "05 Haziran 2024",
+        "comment": "Çok iyi 👍 başarılı",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2023910/2022913/37825354/15738045-1717618017288.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2023910/2022913/37825354/15738045-1717618017935.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2023910/2022913/37825354/15738045-1717618016612.jpeg"
+        ]
+    },
+    {
+        "author": "M** Y**",
+        "rating": 4,
+        "date": "07 Temmuz 2023",
+        "comment": "Gayet başarılı",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 4,
+        "date": "03 Temmuz 2023",
+        "comment": "güzel bir ürün",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "23 Eylül 2023",
+        "comment": "güzel ürün",
+        "images": []
+    },
+    {
+        "author": "Lütfullah K.",
+        "rating": 5,
+        "date": "20 Temmuz 2023",
+        "comment": "Fiyatına göre çok iyi bir ürün mutfakta kullanılabilecek işe yarayacak bir ürün.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2036871/37825354/34974068-1689856806183.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2036871/37825354/34974068-1689856806765.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2036871/37825354/34974068-1689856807539.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "07 Nisan 2023",
+        "comment": "cok güzel çok beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2023910/37825354/43350728-1680888451673.jpeg"
+        ]
+    },
+    {
+        "author": "Cem İ. G.",
+        "rating": 5,
+        "date": "05 Ağustos 2023",
+        "comment": "Hiç düşünmeden alın. evimdeki tüm bıçaklar jilet gibi oldu. Bıçağı domatesin üzerine koyuyorum kendi ağırlığıyla çekiyorum jilet gibi kesiyor",
+        "images": []
+    },
+    {
+        "author": "T** K**",
+        "rating": 5,
+        "date": "24 Temmuz 2023",
+        "comment": "ürün harika jilet gibi yapıyor bıçakları",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2040859/37825354/67370747-1690196971480.jpeg"
+        ]
+    },
+    {
+        "author": "N** E**",
+        "rating": 5,
+        "date": "11 Aralık 2023",
+        "comment": "ürün sağlam ve hızlı geldi",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "14 Eylül 2023",
+        "comment": "Ürün gayet güzel .",
+        "images": []
+    },
+    {
+        "author": "A** Y**",
+        "rating": 4,
+        "date": "05 Ekim 2023",
+        "comment": "Çok güzel boyu tam istediğim gibi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2026901/2021916/37825354/66272466-1696508173151.jpeg"
+        ]
+    },
+    {
+        "author": "M** C** D**",
+        "rating": 5,
+        "date": "21 Eylül 2023",
+        "comment": "Güzel ürün, hızlı kargo",
+        "images": []
+    },
+    {
+        "author": "S** Y**",
+        "rating": 5,
+        "date": "09 Aralık 2023",
+        "comment": "Pirge kalitesinden şaşılmaz zaten",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2025904/37825354/64337458-1702133668428.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "25 Şubat 2024",
+        "comment": "Resimde göründüğü gibi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2042853/37825354/69651814-1708870394780.jpeg"
+        ]
+    },
+    {
+        "author": "ş** k**",
+        "rating": 5,
+        "date": "06 Mayıs 2023",
+        "comment": "pirge diyecek bir şey yok harika",
+        "images": []
+    },
+    {
+        "author": "E** Ş**",
+        "rating": 5,
+        "date": "13 Haziran 2023",
+        "comment": "Kaliteli uzun zaman kullanılır",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2029892/37825354/15021379-1686657212809.jpeg"
+        ]
+    },
+    {
+        "author": "L** A**",
+        "rating": 5,
+        "date": "02 Ekim 2023",
+        "comment": "pirge kalitesi kısa sürede geldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2026901/2018925/37825354/30817395-1696260757770.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2026901/2018925/37825354/30817395-1696260757112.jpeg"
+        ]
+    },
+    {
+        "author": "A** Ç**",
+        "rating": 5,
+        "date": "26 Haziran 2023",
+        "comment": "Fena değil  iş görür",
+        "images": []
+    },
+    {
+        "author": "E** K**",
+        "rating": 5,
+        "date": "13 Ocak 2024",
+        "comment": "Orjinal ürün 👍",
+        "images": []
+    },
+    {
+        "author": "S** S**",
+        "rating": 5,
+        "date": "24 Mart 2023",
+        "comment": "Hızlı teslimat için teşekkürler.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2040859/37825354/5072927-1679683381443.jpeg"
+        ]
+    },
+    {
+        "author": "K** K**",
+        "rating": 5,
+        "date": "02 Nisan 2023",
+        "comment": "Daha kullanmadım kullanınca güncelleyeceğim",
+        "images": []
+    },
+    {
+        "author": "A** Ö**",
+        "rating": 5,
+        "date": "13 Ocak 2024",
+        "comment": "fiyatına göre uygun",
+        "images": []
+    },
+    {
+        "author": "O** D**",
+        "rating": 5,
+        "date": "08 Nisan 2023",
+        "comment": "Bunu kullanana kadar öncekiler masat değilmiş gerçekten pirge kalitesi harika",
+        "images": []
+    },
+    {
+        "author": "F** K**",
+        "rating": 5,
+        "date": "02 Şubat 2023",
+        "comment": "Fiyat performans ürünü",
+        "images": []
+    },
+    {
+        "author": "N** B**",
+        "rating": 5,
+        "date": "28 Aralık 2023",
+        "comment": "Ürün  görünüş olarak güzel umarım bıçaklarıda güzel eyeler",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2044847/37825354/24843095-1703792674026.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2044847/37825354/24843095-1703792674364.jpeg"
+        ]
+    },
+    {
+        "author": "M** O**",
+        "rating": 5,
+        "date": "27 Ağustos 2023",
+        "comment": "Henüz kullanmadım ama kullanıldıysa benziyor",
+        "images": []
+    },
+    {
+        "author": "s** ü**",
+        "rating": 4,
+        "date": "07 Haziran 2023",
+        "comment": "bir kere denedim işe yarıyor gibi görselde ne ise o geldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2023910/37825354/71213066-1686125572428.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2023910/37825354/71213066-1686125571700.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2023910/37825354/71213066-1686125573095.jpeg"
+        ]
+    },
+    {
+        "author": "K** A**",
+        "rating": 4,
+        "date": "22 Ağustos 2023",
+        "comment": "Henüz kullanmadık.kullanınca yorumu güncellerim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2024907/2038865/37825354/10584279-1692681118944.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 3,
+        "date": "08 Aralık 2023",
+        "comment": "çok ince  çok hoşuma gitmedi",
+        "images": []
+    },
+    {
+        "author": "o** t**",
+        "rating": 3,
+        "date": "02 Ağustos 2023",
+        "comment": "Resimdeki sapı ile gelen ürün sapı farklı ve ucundaki asma halkası yok",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2024907/2018925/37825354/7896739-1690930035141.jpeg"
+        ]
+    }
+]
