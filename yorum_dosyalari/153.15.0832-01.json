@@ -1,0 +1,28 @@
+[
+    {
+        "author": "M** E** T**",
+        "rating": 5,
+        "date": "26 Şubat 2025",
+        "comment": "Daha kullanmadım  çabuk gönderdiler memnunum",
+        "images": []
+    },
+    {
+        "author": "F** b**",
+        "rating": 4,
+        "date": "27 Ocak 2025",
+        "comment": "güzel boya tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2019922/2045844/37896260/92825560-1738004802916.jpeg"
+        ]
+    },
+    {
+        "author": "G** Y**",
+        "rating": 5,
+        "date": "28 Aralık 2023",
+        "comment": "Ürünün hepsini döktüm ama asla siyah rengi vermedi bir daha almam aynı markanın sıvı olanını aldım kırmızı rengi çok güzel renk verdi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2044847/37896260/24945366-1703789163714.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2044847/37896260/24945366-1703789163085.jpeg"
+        ]
+    }
+]
