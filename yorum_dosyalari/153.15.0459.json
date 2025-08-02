@@ -1,0 +1,25 @@
+[
+    {
+        "author": "P** K**",
+        "rating": 5,
+        "date": "29 Nisan 2023",
+        "comment": "Canlı bir renk",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "23 Şubat 2023",
+        "comment": "Kurabiyelerimde renk harika oldu. Şiddetle tavsiye edilir",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2039862/37805306/41252276-1677129314840.jpeg"
+        ]
+    },
+    {
+        "author": "D** K**",
+        "rating": 4,
+        "date": "23 Mart 2023",
+        "comment": "rengi çok güzel..",
+        "images": []
+    }
+]
