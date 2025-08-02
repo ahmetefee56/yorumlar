@@ -1,0 +1,26 @@
+[
+    {
+        "author": "e** y**",
+        "rating": 5,
+        "date": "17 Mayıs 2024",
+        "comment": "her zaman ki gibi özenli gönderim için satıcıya çok teşekkür ederim. çok sevdiğim bir çikolata",
+        "images": []
+    },
+    {
+        "author": "A** A**",
+        "rating": 5,
+        "date": "11 Aralık 2022",
+        "comment": "Hem rengi ile gem tadı ile nefis çikolata!",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2026901/41851509/14234351-1670708516397.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2026901/41851509/14234351-1670708516624.jpeg"
+        ]
+    },
+    {
+        "author": "G** Ç**",
+        "rating": 5,
+        "date": "04 Ocak 2024",
+        "comment": "Callebaut kalitesi buram buram♥️♥️",
+        "images": []
+    }
+]
