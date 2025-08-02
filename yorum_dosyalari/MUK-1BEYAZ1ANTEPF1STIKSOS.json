@@ -1,0 +1,63 @@
+[
+    {
+        "author": "A** Ö**",
+        "rating": 5,
+        "date": "25 Nisan 2025",
+        "comment": "ikside harika çok beğendim",
+        "images": []
+    },
+    {
+        "author": "ü** a** ş**",
+        "rating": 5,
+        "date": "18 Nisan 2025",
+        "comment": "Çok lezzetliler",
+        "images": []
+    },
+    {
+        "author": "H** H**",
+        "rating": 5,
+        "date": "30 Ocak 2025",
+        "comment": "tadı muhteşem",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2019922/2048835/375382729/45542390-1738241028039.jpeg"
+        ]
+    },
+    {
+        "author": "S** T**",
+        "rating": 5,
+        "date": "20 Mart 2025",
+        "comment": "çok beğendik lezzetli",
+        "images": []
+    },
+    {
+        "author": "E** E**",
+        "rating": 4,
+        "date": "13 Mayıs 2025",
+        "comment": "Ürünler güzel sürekli sizden alıyorum ama bu sefer fıstıklının skt yazmıyor üzerinde 🤔",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2023910/2031886/375382729/27394684-1747134903558.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "21 Mart 2025",
+        "comment": "Tatlari çok güzel ama antepfıstığı çok şekerli yani şekeri fazla galiba yüzdesi genel olarak güzel beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2021916/2039862/375382729/142464556-1742577198277.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2018925/2021916/2039862/375382729/142464556-1742577197165.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2018925/2021916/2039862/375382729/142464556-1742577197787.jpeg"
+        ]
+    },
+    {
+        "author": "T** Y**",
+        "rating": 4,
+        "date": "04 Kasım 2024",
+        "comment": "Ben Antep,beyaz ve sütlü sipariş verdim.Sutlu olan ürünüm gelmedi sanırım karisiklik oldu unutuldu.İkisini tatma fırsatı buldum.Antep fıstıklıyi öven çok kişi vardi ama yerken keskin bı tad oluşuyor ağızda. Fistık tadı değil kokusuda yanık kokusu.Ama beyaz cikolatali olan beyaz çikolata yer gibi oluyorsun kokusuda beyaz çikolata kokusu.Sutlu ürün gelmediği için tadamadim gelirse yorumu guncellerim.Beyaz çikolatayı tavsiye ediyorum.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2021916/375382729/1492104-1730715745345.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2021916/375382729/1492104-1730715744442.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2021916/375382729/1492104-1730715744937.jpeg"
+        ]
+    }
+]
