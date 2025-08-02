@@ -1,0 +1,982 @@
+[
+    {
+        "author": "s** Y**",
+        "rating": 5,
+        "date": "20 Mart 2023",
+        "comment": "harika bir ürün waffel için aldık sürekli kullanıyorum tadı enfes",
+        "images": []
+    },
+    {
+        "author": "G** T**",
+        "rating": 5,
+        "date": "31 Ocak 2024",
+        "comment": "O kadar lezzetli kiiii kupon bekliyorum alacağım",
+        "images": []
+    },
+    {
+        "author": "n** a**",
+        "rating": 5,
+        "date": "07 Nisan 2023",
+        "comment": "Hayatımda tattığım en güzel çikolata soslarından tekrar tekrar aldığım tek sos",
+        "images": []
+    },
+    {
+        "author": "Edanur A.",
+        "rating": 5,
+        "date": "24 Kasım 2022",
+        "comment": "inanılmaz bir çikolata sürekli waffle yaparken kullanıyorum yine bitti ve sayamadığım kadarıncını alıyorum",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "19 Şubat 2023",
+        "comment": "tadı mükemmel waffle yapmayı sevenler mutlakaa denesin",
+        "images": []
+    },
+    {
+        "author": "S** A**",
+        "rating": 5,
+        "date": "13 Aralık 2023",
+        "comment": "gerçekten evde waffle yapıyorsanız.. kesinlikle alın aldırın..tadı cok güzel sadece çocuklar değil bizde bayıldık",
+        "images": []
+    },
+    {
+        "author": "P** B**",
+        "rating": 5,
+        "date": "12 Ağustos 2022",
+        "comment": "tadı efsane arkadaşlar waffle üstüne çikolata bile sürmeye gerek kalmıyor",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "30 Ocak 2023",
+        "comment": "cok guzel tadi 2. siparişimi de aldım",
+        "images": []
+    },
+    {
+        "author": "N** Ç** P**",
+        "rating": 5,
+        "date": "18 Kasım 2023",
+        "comment": "Muhteşemm İyiki de almışım çok beğendik eşim ve çocuklarımla waffle yaptım diğer kullandığım soslardan bir ayricaligi olduğu bizim için teşekkürler",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2034877/35154970/47072975-1700312624366.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2034877/35154970/47072975-1700312623288.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2034877/35154970/47072975-1700312623873.jpeg"
+        ]
+    },
+    {
+        "author": "Semra P.",
+        "rating": 5,
+        "date": "13 Mart 2023",
+        "comment": "INANILMAZ LEZZETLİ",
+        "images": []
+    },
+    {
+        "author": "S** B**",
+        "rating": 5,
+        "date": "14 Ekim 2022",
+        "comment": "Waffle yaptığımda üstüne bu sosu kullanıyorum tadı çok güzel ve kaliteli tavsiye ederim.",
+        "images": []
+    },
+    {
+        "author": "Kamil T.",
+        "rating": 5,
+        "date": "10 Aralık 2023",
+        "comment": "Özenle paketlenmiş teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "F** K**",
+        "rating": 5,
+        "date": "27 Mart 2023",
+        "comment": "2. Kez alıyorum waffle sosu olarak kullanıyorum lezzeti ürün beğenerek kullanıyorum",
+        "images": []
+    },
+    {
+        "author": "N** e**",
+        "rating": 5,
+        "date": "18 Kasım 2023",
+        "comment": "Mükemmel çikolatasi gayet kaliteli",
+        "images": []
+    },
+    {
+        "author": "z** c**",
+        "rating": 4,
+        "date": "31 Mayıs 2024",
+        "comment": "paketlenmesi ve tadı mükemmel tavsiye üzerine almıştım bayıldım yoğun bir tadı yok yumuşak baymıyor",
+        "images": []
+    },
+    {
+        "author": "F** E**",
+        "rating": 5,
+        "date": "30 Ocak 2023",
+        "comment": "sürekli aldığımız bi ürün kaliteli",
+        "images": []
+    },
+    {
+        "author": "E** A**",
+        "rating": 5,
+        "date": "02 Ocak 2023",
+        "comment": "İlk kez aldım tadı gayet güzel sürekli alırım artık",
+        "images": []
+    },
+    {
+        "author": "K** A**",
+        "rating": 5,
+        "date": "03 Aralık 2022",
+        "comment": "Muhteşemmm şimdi diğer çeşitlerini de alacağım.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2018925/35154970/12036173-1670079658326.jpeg"
+        ]
+    },
+    {
+        "author": "B** G**",
+        "rating": 5,
+        "date": "20 Ocak 2023",
+        "comment": "Her zaman kullandığım bir ürün çok güzel çok lezzetli",
+        "images": []
+    },
+    {
+        "author": "R** N**",
+        "rating": 5,
+        "date": "28 Ağustos 2022",
+        "comment": "Çikolata o kadar güzel ki….. aslında evde waffle yapmak için aldım ama kek üzerine dondurma üzerine herşeye harika oluyor",
+        "images": []
+    },
+    {
+        "author": "M** T**",
+        "rating": 5,
+        "date": "25 Ocak 2023",
+        "comment": "Tadı güzel Waffle için aldık çok beğenildi",
+        "images": []
+    },
+    {
+        "author": "M** A**",
+        "rating": 5,
+        "date": "30 Kasım 2023",
+        "comment": "Kesinlikle çok güzel düşünmeden alın derim",
+        "images": []
+    },
+    {
+        "author": "D** U** k**",
+        "rating": 5,
+        "date": "26 Kasım 2023",
+        "comment": "Sapasağlam geldi ürün tadı da çok güzel dağa önce marketten almıştım burdan daha uyguna geldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2042853/35154970/10735975-1700947617050.jpeg"
+        ]
+    },
+    {
+        "author": "B** D**",
+        "rating": 5,
+        "date": "20 Mart 2023",
+        "comment": "paketleme çok güzel,kaliteli  bir ürün ,tadıda iyi,beğenerek aldığımız üründür.Gönül rahatlığıyla alabilirsiniz",
+        "images": []
+    },
+    {
+        "author": "Tolga D.",
+        "rating": 5,
+        "date": "15 Ocak 2023",
+        "comment": "Çok iyi çikolatası beyazını da aldım",
+        "images": []
+    },
+    {
+        "author": "Ü** Y**",
+        "rating": 5,
+        "date": "13 Kasım 2023",
+        "comment": "Wafflede pastada kullanıyorum tadı lezzeti muhteşeem",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "29 Mart 2023",
+        "comment": "harika ötesi bağımlısı olduk",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "31 Mart 2023",
+        "comment": "tadı nefis wAffle la çok ayrı bir lezzet veriyor gerçek çikolata çok beğendim",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "28 Mayıs 2023",
+        "comment": "Harika soslar çok da lezzetli!",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 4,
+        "date": "15 Aralık 2023",
+        "comment": "lezzetli ve kaliteli bir ürün kesinlikle fiyat performans ürünü",
+        "images": []
+    },
+    {
+        "author": "Y** M**",
+        "rating": 5,
+        "date": "29 Kasım 2022",
+        "comment": "Sorunsuz bi şekilde elime ulaştı gayet güzel paketlenmişti tadı enfes tesekkür ederiz ☺️",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2044847/35154970/12901503-1669671568925.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2044847/35154970/12901503-1669671568569.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "24 Mart 2023",
+        "comment": "çikolata so slu güzel bir üründür.",
+        "images": []
+    },
+    {
+        "author": "C** E**",
+        "rating": 5,
+        "date": "31 Ekim 2022",
+        "comment": "Tadı inanılmaz güzel 🤩",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2025904/2046841/35154970/15045330-1667226169435.jpeg"
+        ]
+    },
+    {
+        "author": "A** E**",
+        "rating": 5,
+        "date": "18 Kasım 2023",
+        "comment": "Mükemmellll 😋🤌🏻sos değil resmen çikolata 🍫 ✨✨✨tereddütsüz alınnnn👍🏼👍🏼",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2033880/35154970/12674055-1700242869647.jpeg"
+        ]
+    },
+    {
+        "author": "D** A**",
+        "rating": 5,
+        "date": "27 Ocak 2023",
+        "comment": "Lezzeti harika tekrar sipariş vereceğim",
+        "images": []
+    },
+    {
+        "author": "R** Ü**",
+        "rating": 5,
+        "date": "29 Nisan 2023",
+        "comment": "Waffle dükkanında görmüştüm bu sosları, artık dışarıda yemek yerine evde yapıyoruz çok güzel ❤️",
+        "images": []
+    },
+    {
+        "author": "M** Y**",
+        "rating": 5,
+        "date": "12 Temmuz 2023",
+        "comment": "Kesinlikle tadı çok güzel tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2028895/35154970/21068296-1689193333806.jpeg"
+        ]
+    },
+    {
+        "author": "Ş** S**",
+        "rating": 5,
+        "date": "03 Şubat 2023",
+        "comment": "cok guzel tadi efsane",
+        "images": []
+    },
+    {
+        "author": "d** ö**",
+        "rating": 5,
+        "date": "17 Nisan 2023",
+        "comment": "son kullanma tarihi yakın değildi tadı çok güzel ailece harika waffle lar yiyoruz",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "09 Haziran 2023",
+        "comment": "kesinlikle tavsiye ederim çok güzel",
+        "images": []
+    },
+    {
+        "author": "C** b**",
+        "rating": 5,
+        "date": "20 Şubat 2023",
+        "comment": "tadı harika kesinle almalısınız",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2036871/35154970/25997449-1676887288558.jpeg"
+        ]
+    },
+    {
+        "author": "İ** A**",
+        "rating": 5,
+        "date": "24 Kasım 2022",
+        "comment": "Waffle için kullanıyoruz. Defalarca denediğim çok güzel bir çikolata sosu.",
+        "images": []
+    },
+    {
+        "author": "D** B**",
+        "rating": 5,
+        "date": "23 Ağustos 2022",
+        "comment": "Keşke fiyatı daha uygun olsa çok seviyoruz",
+        "images": []
+    },
+    {
+        "author": "ö** i** a**",
+        "rating": 5,
+        "date": "06 Aralık 2022",
+        "comment": "Aşırı lezzetli",
+        "images": []
+    },
+    {
+        "author": "G** Ç**",
+        "rating": 5,
+        "date": "18 Kasım 2023",
+        "comment": "Cok lezzetli bayıldımmm",
+        "images": []
+    },
+    {
+        "author": "T** T**",
+        "rating": 5,
+        "date": "29 Aralık 2023",
+        "comment": "Sürekli alıyoruz",
+        "images": []
+    },
+    {
+        "author": "i** v**",
+        "rating": 5,
+        "date": "12 Mart 2023",
+        "comment": "müthiş güzel tadı var",
+        "images": []
+    },
+    {
+        "author": "M** B**",
+        "rating": 5,
+        "date": "24 Ekim 2023",
+        "comment": "Çok lezzetli kaliteli",
+        "images": []
+    },
+    {
+        "author": "A** ö**",
+        "rating": 5,
+        "date": "26 Kasım 2022",
+        "comment": "harika bir sos. Kıvamı da gayet iyi",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 4,
+        "date": "10 Aralık 2023",
+        "comment": "Tadı güzel waffle için almıştık beğendik",
+        "images": []
+    },
+    {
+        "author": "S** Ö**",
+        "rating": 5,
+        "date": "21 Haziran 2023",
+        "comment": "Çok çok iyiler 🫶🏻🫶🏻💖💖severek yiyoruz 🌸🌸",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "29 Kasım 2023",
+        "comment": "sütlü Çikolata güzeldi istediğimiz gibi geldi kıvamında güzel teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "Ü** C**",
+        "rating": 5,
+        "date": "22 Kasım 2023",
+        "comment": "Bayıldım bu bir çikolata sos değil bildiginiz erimiş çikolata 🍫 Sağlam bi şekilde elime ulaştı Teşekkürler 📦",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2038865/35154970/3148719-1700670258740.jpeg"
+        ]
+    },
+    {
+        "author": "G** E**",
+        "rating": 5,
+        "date": "02 Ekim 2023",
+        "comment": "ürün çok lezzetli.kesnlikle tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2026901/2018925/35154970/8027757-1696262821317.jpeg"
+        ]
+    },
+    {
+        "author": "Ü** D**",
+        "rating": 5,
+        "date": "02 Temmuz 2023",
+        "comment": "Tadı harika waffle için kullanıyorum tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2018925/35154970/23009438-1688302128563.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "29 Mart 2023",
+        "comment": "arkadaşlarımın tavsiyesi üzerine aldım",
+        "images": []
+    },
+    {
+        "author": "n** Ö**",
+        "rating": 5,
+        "date": "28 Mart 2023",
+        "comment": "güzeldi teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "N** Ö** Ö**",
+        "rating": 5,
+        "date": "11 Nisan 2023",
+        "comment": "en sevdiğimiz sos",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2027898/35154970/3325326-1681215957209.jpeg"
+        ]
+    },
+    {
+        "author": "N** O**",
+        "rating": 5,
+        "date": "13 Nisan 2023",
+        "comment": "Waffle yaparken kullanıyoruz çok beğendik",
+        "images": []
+    },
+    {
+        "author": "S** K**",
+        "rating": 5,
+        "date": "28 Kasım 2022",
+        "comment": "Gayet lezzetli yatı var",
+        "images": []
+    },
+    {
+        "author": "F** Z** Y**",
+        "rating": 5,
+        "date": "13 Kasım 2022",
+        "comment": "Siparişi ayın 9 unda verdim 13 ünde elime ulaştı beyaz ve sütlü çikolata olanı sipariş verdim tatları çok iyi ama benim gibi bol kepçe dökmeyin ince bir katman yeterli yoksa çok ağır oluyor Biz Bi waffle iki kişi bitiremedik o yüzden eksi yönü sadece ürün pat pata falan sarılı gelse daha iyi olur soslardan birinin kapağı kırık geldi umarım bu sebepten dolayı bozulmaz son tüketim tarihi de 2024",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2028895/35154970/17398024-1668368528822.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2028895/35154970/17398024-1668368529832.jpeg"
+        ]
+    },
+    {
+        "author": "L** B**",
+        "rating": 5,
+        "date": "03 Şubat 2023",
+        "comment": "mükemmel tadı çok güzel",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2019922/35154970/72233311-1675453438259.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2019922/35154970/72233311-1675453438989.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2019922/35154970/72233311-1675453437628.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 4,
+        "date": "26 Eylül 2023",
+        "comment": "tadı güzel ve Bayaa büyük, teşekkürler",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2025904/2042853/35154970/21409549-1695704614471.jpeg"
+        ]
+    },
+    {
+        "author": "Melike S.",
+        "rating": 5,
+        "date": "14 Kasım 2022",
+        "comment": "Her zaman kullandığım bir sos çok lezzetli tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2029892/35154970/4506303-1668444142588.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "20 Nisan 2023",
+        "comment": "tadı çok çok güzel . gerçek çikolata. waffle artık dışarda yemeye son . son kullana tarihi baya ilerde görsel ekledim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2036871/35154970/21986334-1682018772211.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2036871/35154970/21986334-1682018772709.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2036871/35154970/21986334-1682018772932.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "16 Kasım 2022",
+        "comment": "Tadı çok güzel 👍 hızlı kargo ve uzun süre gidecek kadar fazla.",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "15 Eylül 2022",
+        "comment": "en biiii  sevdiğim soss,😋😋🥳",
+        "images": []
+    },
+    {
+        "author": "S** T** U**",
+        "rating": 5,
+        "date": "30 Ocak 2023",
+        "comment": "Çok lezzetli😋",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "08 Nisan 2023",
+        "comment": "Tadı çok güzel",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2024907/35154970/12107330-1680949345091.jpeg"
+        ]
+    },
+    {
+        "author": "F** A**",
+        "rating": 5,
+        "date": "18 Aralık 2023",
+        "comment": "Sağlam geldi kargolara güzeldi tadına daha bakmadım",
+        "images": []
+    },
+    {
+        "author": "Z** D**",
+        "rating": 5,
+        "date": "07 Şubat 2024",
+        "comment": "Muhteşem tat.sorun yaşadığım andada hemen çözüm odaklı oldular teşekkür ederim…",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2024907/35154970/23109343-1707329112076.jpeg"
+        ]
+    },
+    {
+        "author": "G** S**",
+        "rating": 5,
+        "date": "08 Haziran 2023",
+        "comment": "çok kaliteli ama ilk defa deneyecekler için Antep fistiklisini öneririm",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2024907/35154970/16500586-1686237343191.jpeg"
+        ]
+    },
+    {
+        "author": "S** M**",
+        "rating": 5,
+        "date": "07 Kasım 2022",
+        "comment": "ürün çok güzel lezzetli bitti bidaha alicam çok güzel bayıldık",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2022913/35154970/94799179-1667831940881.jpeg"
+        ]
+    },
+    {
+        "author": "E** O** S**",
+        "rating": 5,
+        "date": "13 Aralık 2022",
+        "comment": "Çok lezzetli buzdolabında değil dışarda turuyorum donmuyor pancake Waffle için çok güzel okuyor. Aşırı lezzetli normalde her çikolata yiyemem ama bunu lezzetli buldum. Ayrıca çokta pratik",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2028895/35154970/3938372-1670946423575.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2028895/35154970/3938372-1670946422929.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2028895/35154970/3938372-1670946423980.jpeg"
+        ]
+    },
+    {
+        "author": "E** K**",
+        "rating": 5,
+        "date": "15 Ekim 2024",
+        "comment": "Mükemmel tadı var",
+        "images": []
+    },
+    {
+        "author": "S** A**",
+        "rating": 5,
+        "date": "31 Mart 2023",
+        "comment": "Asıgıyımm bu sosun",
+        "images": []
+    },
+    {
+        "author": "K** K**",
+        "rating": 5,
+        "date": "23 Ekim 2022",
+        "comment": "Gayet başarılı. Gerçek çikolata sosu ve lezzetli",
+        "images": []
+    },
+    {
+        "author": "e** n**",
+        "rating": 5,
+        "date": "14 Aralık 2022",
+        "comment": "İkinci alışımız tadını çocuklarım çok beğeniyor😍",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2029892/35154970/7212073-1670974550423.jpeg"
+        ]
+    },
+    {
+        "author": "e** i**",
+        "rating": 3,
+        "date": "03 Haziran 2025",
+        "comment": "yorumu guncelliuorum.tadini beğenmedim boyutu fiyatı iyi ama tadı güzel değil bı koku var anlamadım .",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2026901/35154970/5002180-1720507651168.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "02 Şubat 2023",
+        "comment": "aldığım en güzel şey ağzı kırık geldi ama sorun değil tadı mükemmel 2. kutum bu",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2018925/35154970/34927574-1675342576228.jpeg"
+        ]
+    },
+    {
+        "author": "Ö** Ç**",
+        "rating": 5,
+        "date": "18 Ocak 2023",
+        "comment": "Çok lezzetli 👌🏻",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2034877/35154970/1400353-1674072514801.jpeg"
+        ]
+    },
+    {
+        "author": "T** S**",
+        "rating": 5,
+        "date": "23 Ocak 2023",
+        "comment": "waffle sosu tadı güzel",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2039862/35154970/25002979-1674423881379.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2039862/35154970/25002979-1674423881633.jpeg"
+        ]
+    },
+    {
+        "author": "e** d**",
+        "rating": 5,
+        "date": "05 Aralık 2023",
+        "comment": "Her zamanki gibi kusursuz geldi🙏muhteşem",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2021916/35154970/10963463-1701776690364.jpeg"
+        ]
+    },
+    {
+        "author": "M** D**",
+        "rating": 5,
+        "date": "06 Mayıs 2024",
+        "comment": "çok güzel lezzetli",
+        "images": []
+    },
+    {
+        "author": "Z** B**",
+        "rating": 5,
+        "date": "16 Kasım 2022",
+        "comment": "guzel hızlı kargo lezzetli",
+        "images": []
+    },
+    {
+        "author": "S** K**",
+        "rating": 5,
+        "date": "20 Mart 2023",
+        "comment": "Kaliteli ürün",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2036871/35154970/13271493-1679338203107.jpeg"
+        ]
+    },
+    {
+        "author": "H** F** O**",
+        "rating": 4,
+        "date": "20 Eylül 2023",
+        "comment": "Kıvamı ve tadı iyi",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "27 Şubat 2023",
+        "comment": "Çok güzel çok lezzetli .",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2043850/35154970/89530740-1677526254940.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2043850/35154970/89530740-1677526255518.jpeg"
+        ]
+    },
+    {
+        "author": "N** K**",
+        "rating": 5,
+        "date": "19 Ocak 2023",
+        "comment": "Tatlılarımı süslüyor",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2035874/35154970/10797353-1674153437695.jpeg"
+        ]
+    },
+    {
+        "author": "m** g**",
+        "rating": 5,
+        "date": "06 Kasım 2022",
+        "comment": "Harikaaaa gerçekten böyle bir lezzet yok",
+        "images": []
+    },
+    {
+        "author": "g** ö**",
+        "rating": 5,
+        "date": "05 Aralık 2023",
+        "comment": "Çok lezzetli",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2021916/35154970/10829297-1701789556995.jpeg"
+        ]
+    },
+    {
+        "author": "B** K**",
+        "rating": 5,
+        "date": "02 Şubat 2023",
+        "comment": "Çok beğendik",
+        "images": []
+    },
+    {
+        "author": "C** K**",
+        "rating": 5,
+        "date": "09 Aralık 2022",
+        "comment": "Çok güzel ve lezzetli",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2024907/35154970/14567098-1670564879482.jpeg"
+        ]
+    },
+    {
+        "author": "s** s**",
+        "rating": 4,
+        "date": "13 Mart 2023",
+        "comment": "tadı çok güzel 2 tane almıştım kapak kısmı bantlanmasına rağmen bitanesi biraz akmıştı ve son kullanma tarihleri ikisi birbirinden fatklı beyaz çikolatılı olan daha yakın bir tarihti çok büyük olduğu için o tarihe kadar bitermi bilemiyorum",
+        "images": []
+    },
+    {
+        "author": "T** K**",
+        "rating": 5,
+        "date": "07 Temmuz 2023",
+        "comment": "Güzel teşekkürler",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2023910/35154970/60696742-1688711037349.jpeg"
+        ]
+    },
+    {
+        "author": "S** K**",
+        "rating": 5,
+        "date": "08 Eylül 2022",
+        "comment": "Tadı nutellayı andırıyor. Bi tık daha sıvı.",
+        "images": []
+    },
+    {
+        "author": "Ş** E**",
+        "rating": 5,
+        "date": "15 Şubat 2023",
+        "comment": "Kahvelerimde de kullanıyorum çok güzel bir tadı var 🤍",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2031886/35154970/16059895-1676415765148.jpeg"
+        ]
+    },
+    {
+        "author": "Büşra D.",
+        "rating": 5,
+        "date": "16 Kasım 2023",
+        "comment": "Cafelerdeki çikolata sosla aynı ben çok beğendim 🥰",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2032883/35154970/13486498-1700156262943.jpeg"
+        ]
+    },
+    {
+        "author": "A** T**",
+        "rating": 5,
+        "date": "29 Temmuz 2023",
+        "comment": "kaliteli severek kullanıyorum.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2045844/35154970/695089-1690643530205.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "03 Ocak 2023",
+        "comment": "Tadı enfes. Her şeyin üstüne dök dök ye",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2019922/35154970/16375672-1672772870078.jpeg"
+        ]
+    },
+    {
+        "author": "Z** Ç**",
+        "rating": 5,
+        "date": "28 Mart 2023",
+        "comment": "Beğendim, lezzetli çok damak tadı iyi olanlar nutella ile kıyaslamayınız 🌼",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2044847/35154970/8217671-1680008923087.jpeg"
+        ]
+    },
+    {
+        "author": "E** S**",
+        "rating": 5,
+        "date": "23 Eylül 2024",
+        "comment": "Tam waffle sosu epey de büyük",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2026901/2040859/35154970/14720206-1727080856410.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2026901/2040859/35154970/14720206-1727080857033.jpeg"
+        ]
+    },
+    {
+        "author": "E** K**",
+        "rating": 5,
+        "date": "22 Temmuz 2024",
+        "comment": "Ürün çok güzel tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2039862/35154970/10284513-1721676825044.jpeg"
+        ]
+    },
+    {
+        "author": "Y** ş**",
+        "rating": 5,
+        "date": "29 Ocak 2023",
+        "comment": "çok güzel çok beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2045844/35154970/13355992-1674997532843.jpeg"
+        ]
+    },
+    {
+        "author": "K** D**",
+        "rating": 5,
+        "date": "15 Nisan 2024",
+        "comment": "Çok beğendik. Gayet güzel bir ürün",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2021916/2032883/35154970/4113076-1713171829142.jpeg"
+        ]
+    },
+    {
+        "author": "k** B**",
+        "rating": 5,
+        "date": "25 Haziran 2023",
+        "comment": "teşekkürler memnun kaldım",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2041856/35154970/17452864-1687705137058.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "10 Mart 2023",
+        "comment": "Waffle fiyatları uçunca evde wafle yapmak için oldukça mantıklı bir seçim oldu memnunuz",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2026901/35154970/18854527-1678465242996.jpeg"
+        ]
+    },
+    {
+        "author": "ş** s**",
+        "rating": 5,
+        "date": "02 Kasım 2022",
+        "comment": "Denediğim en lezzetli çikolata sosu",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2017928/35154970/12606111-1667408202840.jpeg"
+        ]
+    },
+    {
+        "author": "Ü** K**",
+        "rating": 4,
+        "date": "03 Aralık 2023",
+        "comment": "tadı çok güzel paketleme özensiz sızmış kapağı acilmis olarak geldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2046841/35154970/23529491-1701362184460.jpeg"
+        ]
+    },
+    {
+        "author": "H** Y**",
+        "rating": 4,
+        "date": "21 Haziran 2023",
+        "comment": "Ürünlerim geldi daha kullanmadım skt 2024",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2037868/35154970/39812515-1687336729643.jpeg"
+        ]
+    },
+    {
+        "author": "g** m**",
+        "rating": 5,
+        "date": "24 Kasım 2022",
+        "comment": "dışarda bir bardağına 40 tl vereceğime eve aldım",
+        "images": []
+    },
+    {
+        "author": "A** Ç**",
+        "rating": 5,
+        "date": "06 Mart 2023",
+        "comment": "Son kullanma tarıhı 2024 tadı enfesti",
+        "images": []
+    },
+    {
+        "author": "Oktay Y.",
+        "rating": 5,
+        "date": "12 Mart 2023",
+        "comment": "uzun süre kullandim memnun kaldım",
+        "images": []
+    },
+    {
+        "author": "B** a**",
+        "rating": 4,
+        "date": "27 Ağustos 2022",
+        "comment": "Ürünün tadı beklediğimden iyi bir yıldızı şişenin içe göçük gelmesinden kırdım",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2023910/2042853/35154970/18331971-1661599166099.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "22 Haziran 2023",
+        "comment": "Tadı nefissss",
+        "images": []
+    },
+    {
+        "author": "Sinan K.",
+        "rating": 4,
+        "date": "24 Mart 2023",
+        "comment": "Kullanmak nasip olmadı ama paketleme vs",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 3,
+        "date": "20 Mart 2023",
+        "comment": "Ürünün kapağı kırık geldi.",
+        "images": []
+    },
+    {
+        "author": "O** E**",
+        "rating": 4,
+        "date": "19 Ağustos 2023",
+        "comment": "Ürün doğru geldi ama son kullanma tarihi 3 ay kalmıştı bu durum pek hoş olmadı",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2024907/2035874/35154970/18658991-1692442814143.jpeg"
+        ]
+    },
+    {
+        "author": "Şükrü Z.",
+        "rating": 3,
+        "date": "05 Mayıs 2023",
+        "comment": "Çikolata donuyor sıkılmıyor",
+        "images": []
+    },
+    {
+        "author": "A** U**",
+        "rating": 5,
+        "date": "01 Aralık 2022",
+        "comment": "akmış yağ  içerisinde geldi",
+        "images": []
+    },
+    {
+        "author": "R** T**",
+        "rating": 3,
+        "date": "03 Kasım 2022",
+        "comment": "Tadında plastik gibi bir şey var ve kırık geldi o yüzden 2 puan kırıyorum",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2018925/35154970/1198753-1667451517417.jpeg"
+        ]
+    },
+    {
+        "author": "D** A**",
+        "rating": 3,
+        "date": "24 Kasım 2023",
+        "comment": "Bu kapak bu kadar nasıl parçalandı anlamış değilim hiç",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2040859/35154970/28980489-1700844781995.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2040859/35154970/28980489-1700844782604.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2040859/35154970/28980489-1700844783081.jpeg"
+        ]
+    },
+    {
+        "author": "t** v**",
+        "rating": 3,
+        "date": "16 Aralık 2023",
+        "comment": "urunun tadini begenmedim",
+        "images": []
+    }
+]
