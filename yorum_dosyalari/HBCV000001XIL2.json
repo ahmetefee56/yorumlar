@@ -1,0 +1,61 @@
+[
+    {
+        "author": "D** S**",
+        "rating": 5,
+        "date": "09 Ekim 2023",
+        "comment": "Çok kullanışlı bir ürün büyüklüğü yeterli geldi",
+        "images": []
+    },
+    {
+        "author": "D** Ç**",
+        "rating": 5,
+        "date": "27 Nisan 2023",
+        "comment": "Kullanışlı sevdim",
+        "images": []
+    },
+    {
+        "author": "S** K**",
+        "rating": 5,
+        "date": "06 Nisan 2023",
+        "comment": "Beğendimmm teşekkür ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2022913/92399885/8143954-1680763777655.jpeg"
+        ]
+    },
+    {
+        "author": "B** Y**",
+        "rating": 5,
+        "date": "29 Mayıs 2023",
+        "comment": "Teşekkürler ☺️",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 4,
+        "date": "03 Eylül 2023",
+        "comment": "Ürün daha küçük gelir diye düşünmüştüm ama boyutu ideal çeliği çok az daha kalın olabilirdi iade etmedim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2025904/2019922/92399885/87761803-1693761260571.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 3,
+        "date": "14 Mart 2023",
+        "comment": "Boyutu tahminimden küçük ama iş görür, dalgalı bi görüntüsü var.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2030889/92399885/55697123-1678775492155.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2030889/92399885/55697123-1678775493162.jpeg"
+        ]
+    },
+    {
+        "author": "B** T**",
+        "rating": 5,
+        "date": "27 Mart 2023",
+        "comment": "Üstündeki yazılar silinmiş gibiydi onun dışında içime sindi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2043850/92399885/51551056-1679922298332.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2043850/92399885/51551056-1679922298097.jpeg"
+        ]
+    }
+]
