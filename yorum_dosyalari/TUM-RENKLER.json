@@ -1,0 +1,25 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "10 Aralık 2023",
+        "comment": "Her zamanki gibi harika paketleme hızlı kargo",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "28 Ocak 2024",
+        "comment": "Çikolata mükemmel ve çok lezzetli geldi. Hediye olarak önlük için çok teşekkür ederim!",
+        "images": []
+    },
+    {
+        "author": "C** M** B**",
+        "rating": 5,
+        "date": "28 Kasım 2023",
+        "comment": "çok güzel teşekkürler",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2044847/775738332/10759480-1701165393825.jpeg"
+        ]
+    }
+]
