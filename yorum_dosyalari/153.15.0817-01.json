@@ -1,0 +1,30 @@
+[
+    {
+        "author": "Esra A.",
+        "rating": 5,
+        "date": "08 Nisan 2024",
+        "comment": "yeğenimin doğum.gunu icin aldik",
+        "images": []
+    },
+    {
+        "author": "H** B**",
+        "rating": 5,
+        "date": "05 Haziran 2024",
+        "comment": "Kırmızısınıda aldım güzel 👍",
+        "images": []
+    },
+    {
+        "author": "Ş** A**",
+        "rating": 5,
+        "date": "25 Mart 2024",
+        "comment": "Gayet güzel beğendim alabilirsiniz",
+        "images": []
+    },
+    {
+        "author": "N** L** T**",
+        "rating": 3,
+        "date": "18 Ocak 2024",
+        "comment": "Su bazlı olduğu için renk için biraz fazla koymanız gerekiyor ve kapakları çok kullanışsız akıtıyor",
+        "images": []
+    }
+]
