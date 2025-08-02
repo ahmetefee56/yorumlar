@@ -1,0 +1,25 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "22 Şubat 2024",
+        "comment": "👍🏻👍🏻👍🏻çox sağ olun, heç bir narazılıq yoxdur",
+        "images": []
+    },
+    {
+        "author": "Ö** K**",
+        "rating": 5,
+        "date": "13 Şubat 2024",
+        "comment": "ürün sorunsuz elime ulaştı çok tesekkürler",
+        "images": []
+    },
+    {
+        "author": "B** A**",
+        "rating": 5,
+        "date": "22 Temmuz 2023",
+        "comment": "Çok güzel tazecik hem de muhafazalı bir şekilde geldi. Defalarca alışveriş yaptım bu satıcıdan hepsinde memnun kaldım teşekkür ediyorum 💐",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2038865/41851520/28329266-1690018029306.jpeg"
+        ]
+    }
+]
