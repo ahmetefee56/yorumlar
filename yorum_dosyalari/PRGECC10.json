@@ -1,0 +1,40 @@
+[
+    {
+        "author": "K** G**",
+        "rating": 5,
+        "date": "27 Şubat 2023",
+        "comment": "çok keskin cok güzel ürün teşekkür ederim Pirge",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "26 Mayıs 2023",
+        "comment": "çok güzel keskin",
+        "images": []
+    },
+    {
+        "author": "A** G**",
+        "rating": 5,
+        "date": "11 Mart 2023",
+        "comment": "gayet başarılı",
+        "images": []
+    },
+    {
+        "author": "F** S**",
+        "rating": 5,
+        "date": "24 Kasım 2024",
+        "comment": "çok güzel bir ürün memnun kaldım",
+        "images": []
+    },
+    {
+        "author": "S** K**",
+        "rating": 5,
+        "date": "26 Şubat 2023",
+        "comment": "ürün sağlam sıkıntı yok amaa çok büyükmüş minyonsaniz benim gibi kullanımı garip gelebilir 16cm olan daha iyi diğeri erkekler için bence",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2042853/81318703/84356169-1677398626170.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2042853/81318703/84356169-1677398626900.jpeg"
+        ]
+    }
+]
