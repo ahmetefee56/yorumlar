@@ -1,0 +1,28 @@
+[
+    {
+        "author": "S** B**",
+        "rating": 5,
+        "date": "06 Nisan 2025",
+        "comment": "pastalarim icin kullandim harika bir ürün hemde silinebilir",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2022913/2024907/894900061/14871806-1743953670878.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2022913/2024907/894900061/14871806-1743953671555.jpeg"
+        ]
+    },
+    {
+        "author": "H** A**",
+        "rating": 5,
+        "date": "07 Haziran 2025",
+        "comment": "Beğendim güzel geldi",
+        "images": []
+    },
+    {
+        "author": "S** D**",
+        "rating": 4,
+        "date": "10 Şubat 2025",
+        "comment": "Ürünü beğendim tam istediğim boyutlarda yedi ama kağıt kesiminden kalmış çok toz ve kağıt parçaları vardı",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2020919/2028895/894900061/3622332-1739173689129.jpeg"
+        ]
+    }
+]
