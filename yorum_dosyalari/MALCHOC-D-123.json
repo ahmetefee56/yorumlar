@@ -1,0 +1,29 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "02 Kasım 2023",
+        "comment": "Lezzetli . Şeker kullanmadım için alıyorum",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2018925/41729724/16659449-1698948349898.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2018925/41729724/16659449-1698948349514.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "20 Ocak 2024",
+        "comment": "Teşekkür ederim, ürün süper, çikolata süper.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2018925/2037868/41729724/13357863-1705771220172.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2018925/2037868/41729724/13357863-1705771220874.jpeg"
+        ]
+    },
+    {
+        "author": "K** G**",
+        "rating": 5,
+        "date": "08 Eylül 2022",
+        "comment": "Ürün kalitesi çok iyi. amma fiyatlar baya yükselmiş",
+        "images": []
+    }
+]
