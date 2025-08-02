@@ -1,0 +1,36 @@
+[
+    {
+        "author": "a** o**",
+        "rating": 5,
+        "date": "27 Ağustos 2022",
+        "comment": "cok severek kullanıyorum.Pandispanyalarim harika oluyor.",
+        "images": []
+    },
+    {
+        "author": "H** D**",
+        "rating": 5,
+        "date": "16 Aralık 2022",
+        "comment": "Çok güzel pastam müthiş oldu hızlı kargo",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2031886/36399743/12102282-1671171985997.jpeg"
+        ]
+    },
+    {
+        "author": "Zeynep R.",
+        "rating": 5,
+        "date": "10 Ekim 2022",
+        "comment": "temiz geldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2025904/2025904/36399743/17101183-1665426763232.jpeg"
+        ]
+    },
+    {
+        "author": "R** I**",
+        "rating": 5,
+        "date": "02 Ocak 2023",
+        "comment": "ürün görseldeki ile aynı değil ancak pandispanyamı çok güzel kabarttı, yumuşacık oldu.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2018925/36399743/74233374-1672662359586.jpeg"
+        ]
+    }
+]
