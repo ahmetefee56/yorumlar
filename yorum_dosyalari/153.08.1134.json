@@ -1,0 +1,52 @@
+[
+    {
+        "author": "D** A**",
+        "rating": 5,
+        "date": "09 Aralık 2024",
+        "comment": "çok ama çok tatlılar",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "25 Mart 2025",
+        "comment": "çok yakıştı pastama teşekkürler",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2021916/2043850/790769076/45618941-1742923558156.jpeg"
+        ]
+    },
+    {
+        "author": "Z** Y**",
+        "rating": 5,
+        "date": "18 Haziran 2025",
+        "comment": "güzeldi sevdik",
+        "images": []
+    },
+    {
+        "author": "H** K**",
+        "rating": 5,
+        "date": "20 Ocak 2025",
+        "comment": "Çok güzeldi 🥰",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2019922/2038865/790769076/26414086-1737371954910.jpeg"
+        ]
+    },
+    {
+        "author": "M** G**",
+        "rating": 5,
+        "date": "12 Mayıs 2025",
+        "comment": "Good great",
+        "images": []
+    },
+    {
+        "author": "E** G**",
+        "rating": 5,
+        "date": "25 Mart 2025",
+        "comment": "başta görünsün diye 5 yıldız verdim biz bunları çocuklarımıza yediriyoruz kapağın altındaki koruma jelatini açılmis geldi ben buna güvenip nasıl çocuğuma yediricem içine birşey koymadiklarini nerden bileyim bellidi başka müşteriden iade gelmiş kontrol edilmeden nasıl gönderebiliyorsunuz",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2021916/2043850/790769076/50210977-1742901344854.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2021916/2043850/790769076/50210977-1742901345350.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1742466981198/img/2018925/2021916/2043850/790769076/50210977-1742901345863.jpeg"
+        ]
+    }
+]
