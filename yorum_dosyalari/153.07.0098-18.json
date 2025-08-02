@@ -1,0 +1,25 @@
+[
+    {
+        "author": "P** K**",
+        "rating": 5,
+        "date": "03 Aralık 2022",
+        "comment": "guzel kalite yumusak renkler tam gorundugu gibi",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "13 Ağustos 2022",
+        "comment": "Açması çok kolay oldu",
+        "images": []
+    },
+    {
+        "author": "E** Ö**",
+        "rating": 5,
+        "date": "16 Kasım 2024",
+        "comment": "çok güzel pasta yaptık",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2033880/121007641/17090961-1731781009725.jpeg"
+        ]
+    }
+]
