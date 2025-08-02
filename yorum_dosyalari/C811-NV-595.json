@@ -1,0 +1,41 @@
+[
+    {
+        "author": "B** E** K**",
+        "rating": 5,
+        "date": "28 Temmuz 2024",
+        "comment": "Kalitesi belli zaten",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2045844/358797485/10963152-1722183402607.jpeg"
+        ]
+    },
+    {
+        "author": "D** A**",
+        "rating": 5,
+        "date": "07 Aralık 2023",
+        "comment": "Hasarsız sağlam geldi. Ürün kalitesi zaten belli.",
+        "images": []
+    },
+    {
+        "author": "N** K**",
+        "rating": 5,
+        "date": "17 Aralık 2022",
+        "comment": "Harika çok çok güzel ve kaliteli",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "05 Eylül 2024",
+        "comment": "Merhaba , bundan çikolata var mı??callebaut 70%",
+        "images": []
+    },
+    {
+        "author": "B** N** A**",
+        "rating": 4,
+        "date": "14 Kasım 2023",
+        "comment": "biraz pahalı ama tadı güzel",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2030889/358797485/1793826-1699952386081.jpeg"
+        ]
+    }
+]
