@@ -1,0 +1,25 @@
+[
+    {
+        "author": "L** B**",
+        "rating": 5,
+        "date": "27 Kasım 2023",
+        "comment": "Hediyenız ıcınde tesekkur ederım",
+        "images": []
+    },
+    {
+        "author": "M** ö**",
+        "rating": 4,
+        "date": "31 Ocak 2025",
+        "comment": "çok güzel.bir ürün lakin köşeye denk gelen yerde binkac tane ezilmiş",
+        "images": []
+    },
+    {
+        "author": "E** E**",
+        "rating": 3,
+        "date": "29 Temmuz 2024",
+        "comment": "paketleme daha özenli olabilirdi çikolatalar erimişti biraz",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2046841/677289310/22858867-1722261958313.jpeg"
+        ]
+    }
+]
