@@ -1,0 +1,64 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "27 Kasım 2023",
+        "comment": "Paketlemesi çok güzeldi. Hızlı bir şekilde ulaştı. Ürün bayat değil.",
+        "images": []
+    },
+    {
+        "author": "H** T** Ş**",
+        "rating": 5,
+        "date": "21 Ekim 2023",
+        "comment": "kırılmadan güzelce geldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2026901/2037868/145011142/1588908-1697840734207.jpeg"
+        ]
+    },
+    {
+        "author": "d** n**",
+        "rating": 5,
+        "date": "18 Mart 2024",
+        "comment": "Çok güzel teşekkürler",
+        "images": []
+    },
+    {
+        "author": "Ş** A**",
+        "rating": 5,
+        "date": "17 Eylül 2022",
+        "comment": "fiyat performans süper",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "21 Ağustos 2022",
+        "comment": "sağlam ulaştı",
+        "images": []
+    },
+    {
+        "author": "A** F**",
+        "rating": 5,
+        "date": "15 Temmuz 2024",
+        "comment": "Özenli paketleme ve hızlı teslimat için teşekkürler.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2032883/145011142/15372588-1721035190733.jpeg"
+        ]
+    },
+    {
+        "author": "A** A**",
+        "rating": 5,
+        "date": "24 Kasım 2023",
+        "comment": "10 numeroom",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2040859/145011142/17227014-1700812541405.jpeg"
+        ]
+    },
+    {
+        "author": "F** A**",
+        "rating": 5,
+        "date": "06 Ekim 2022",
+        "comment": "So good in desserts",
+        "images": []
+    }
+]
