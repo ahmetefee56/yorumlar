@@ -1,0 +1,23 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "11 Mayıs 2024",
+        "comment": "kesinlikle tavsiye ederim",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "11 Ocak 2023",
+        "comment": "Çok işime yarayacak",
+        "images": []
+    },
+    {
+        "author": "Ş** N** Y**",
+        "rating": 5,
+        "date": "28 Ekim 2022",
+        "comment": "Memnunum sadece biraz daha keskin olabilirlerdi",
+        "images": []
+    }
+]
