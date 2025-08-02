@@ -1,0 +1,21 @@
+[
+    {
+        "author": "A** Y**",
+        "rating": 5,
+        "date": "02 Şubat 2024",
+        "comment": "resimdeki gibi geldi harika cok begendim fiyati kalitesi cok begendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2019922/773250445/121059806-1706863834736.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2019922/773250445/121059806-1706863835127.jpeg"
+        ]
+    },
+    {
+        "author": "T** Ü**",
+        "rating": 4,
+        "date": "20 Haziran 2024",
+        "comment": "Sağlam gibi açmadım",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2023910/2037868/773250445/23233956-1718836896171.jpeg"
+        ]
+    }
+]
