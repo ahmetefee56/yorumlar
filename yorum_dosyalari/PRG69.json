@@ -1,0 +1,25 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "31 Mart 2024",
+        "comment": "şimdiye kadar kullandığım en güzel ürünler herkese tavsiye ederim almak isteyenler gönül rahatlığı ile alabilir",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2020919/2048835/69463865/88856698-1711876209624.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "14 Şubat 2024",
+        "comment": "çok beğendim tavsiye ederim",
+        "images": []
+    },
+    {
+        "author": "S** D**",
+        "rating": 5,
+        "date": "06 Haziran 2024",
+        "comment": "ikiside çok güzel ve kaliteli paketleme harika",
+        "images": []
+    }
+]
