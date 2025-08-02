@@ -1,0 +1,63 @@
+[
+    {
+        "author": "e** i**",
+        "rating": 5,
+        "date": "04 Eylül 2023",
+        "comment": "daha öncede bu siteden 12 li muffin kalıpları almıştım çok memnunum kalıba tam ölüyor teşekkürler",
+        "images": []
+    },
+    {
+        "author": "D** S**",
+        "rating": 5,
+        "date": "07 Haziran 2023",
+        "comment": "Aşırı kaliteli. Görseldeki gibi renkleri. Satıcıdan ve üründen memnun kaldım",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2023910/41892742/14127217-1686086517525.jpeg"
+        ]
+    },
+    {
+        "author": "A** K**",
+        "rating": 5,
+        "date": "21 Mart 2023",
+        "comment": "Küçükmüş ama olsun iş görür teşekkür ederim..",
+        "images": []
+    },
+    {
+        "author": "F** S**",
+        "rating": 5,
+        "date": "16 Haziran 2023",
+        "comment": "çok minik ama kaliteli. Çocukları cezbediyor",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2022913/2032883/41892742/16213185-1686918014586.jpeg"
+        ]
+    },
+    {
+        "author": "Ş** ş** M**",
+        "rating": 5,
+        "date": "05 Mayıs 2023",
+        "comment": "çok güzel  iyi ve hızlı kargo",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2021916/2021916/41892742/13304048-1683314725302.jpeg"
+        ]
+    },
+    {
+        "author": "K** İ**",
+        "rating": 5,
+        "date": "06 Nisan 2023",
+        "comment": "cok güzel beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2022913/41892742/14176220-1680794255779.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2022913/41892742/14176220-1680794255142.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2022913/41892742/14176220-1680794254543.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "21 Nisan 2024",
+        "comment": "çok güzel beyendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2021916/2038865/41892742/99535133-1713704095891.jpeg"
+        ]
+    }
+]
