@@ -1,0 +1,86 @@
+[
+    {
+        "author": "f** A**",
+        "rating": 5,
+        "date": "01 Kasım 2022",
+        "comment": "sürekli aldığım şekerim",
+        "images": []
+    },
+    {
+        "author": "görkem k.",
+        "rating": 5,
+        "date": "10 Kasım 2022",
+        "comment": "ürünlerin hepsi sağlam bir şekilde ulaştı elime",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2026901/2025904/354432873/8791702-1668066939116.jpeg"
+        ]
+    },
+    {
+        "author": "E** D**",
+        "rating": 5,
+        "date": "11 Eylül 2023",
+        "comment": "sorunsuz geldi, tadi cok iyi, fiyati da uygun.",
+        "images": []
+    },
+    {
+        "author": "A** S**",
+        "rating": 5,
+        "date": "18 Ağustos 2023",
+        "comment": "herzaman bu marka alıyorum harika kurabiyeler oluyor",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2024907/2034877/354432873/22732744-1692352061343.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2024907/2034877/354432873/22732744-1692352121934.jpeg"
+        ]
+    },
+    {
+        "author": "T** D**",
+        "rating": 5,
+        "date": "16 Ağustos 2023",
+        "comment": "esmer şeker daha sağlıklı.. ve buradan almak en hesaplisi",
+        "images": []
+    },
+    {
+        "author": "S** P**",
+        "rating": 5,
+        "date": "20 Mart 2023",
+        "comment": "çok memunum teşekkürler",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "15 Ekim 2022",
+        "comment": "Ürün elime sağ Salim geçti . Paketi farklı ama  benim için önemli diiil. İlk defa bu markayı alıyorum .",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2025904/2030889/354432873/72119979-1665842963451.jpeg"
+        ]
+    },
+    {
+        "author": "N** S**",
+        "rating": 5,
+        "date": "02 Mayıs 2023",
+        "comment": "hızlı kargo için teşekkürler",
+        "images": []
+    },
+    {
+        "author": "A** V** O**",
+        "rating": 5,
+        "date": "08 Aralık 2022",
+        "comment": "teşekkürler, hızlı kargo için",
+        "images": []
+    },
+    {
+        "author": "Ş** s** E**",
+        "rating": 5,
+        "date": "28 Ağustos 2023",
+        "comment": "Merhaba ürünü uzun zamandır kullanıyorum çok memnunum en azından beyaz şekerden iyi herkese tavsiye ederim",
+        "images": []
+    },
+    {
+        "author": "F** Y** A**",
+        "rating": 5,
+        "date": "27 Aralık 2022",
+        "comment": "Diğer esmer şekerlere göre daha koyu renk. Paketleme çok iyiydi. İlk paketinde kuruydu. Diğer markalar gibi kinetik kum gibi bir yapısı yoktu fakat kavanoza koyduktan sonra aynı o şekilde oldu. Nemlendi gibi oldu. Gayet güzel ürün. Fakat çok fazla o esmer şeker aromasını alamadım sanki",
+        "images": []
+    }
+]
