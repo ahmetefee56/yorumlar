@@ -1,0 +1,27 @@
+[
+    {
+        "author": "E** D**",
+        "rating": 5,
+        "date": "16 Temmuz 2023",
+        "comment": "Çok güzel görünüyor mutfağıma çok yakışacak",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2023910/2032883/5299220/15302085-1689508312253.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "04 Nisan 2023",
+        "comment": "super cok keskin ,boyutu da ideal",
+        "images": []
+    },
+    {
+        "author": "M** M**",
+        "rating": 5,
+        "date": "30 Mart 2023",
+        "comment": "Çok sağlam ve keskin kullanışlı bir bıçak",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2046841/5299220/15405294-1680185064670.jpeg"
+        ]
+    }
+]
