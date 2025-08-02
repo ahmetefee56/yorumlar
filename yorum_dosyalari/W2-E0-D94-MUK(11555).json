@@ -1,0 +1,475 @@
+[
+    {
+        "author": "G** T**",
+        "rating": 5,
+        "date": "25 Mart 2023",
+        "comment": "Çok çok iyi, kampanya buldukça stokluyorum",
+        "images": []
+    },
+    {
+        "author": "R** İ**",
+        "rating": 5,
+        "date": "30 Ağustos 2022",
+        "comment": "Süper çikolata",
+        "images": []
+    },
+    {
+        "author": "S** S**",
+        "rating": 5,
+        "date": "27 Mart 2023",
+        "comment": "Denediğim en güzel çikolata tatlı severlere tavsiye ederim paketlemesi de oldukça iyi satıcıya teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "B** G**",
+        "rating": 5,
+        "date": "01 Haziran 2023",
+        "comment": "Müthiş !!!  Böyle lezzetli bir çikolata yok . Kinder çikolatasıyla aynı . Toplamda 2 kez sipariş ettim yine bitmek üzere hemen yine sipariş vereceğim ama biraz indirim lütfen 🥺",
+        "images": []
+    },
+    {
+        "author": "F** N** E**",
+        "rating": 5,
+        "date": "24 Kasım 2023",
+        "comment": "Lezzet zaten şahane tarihleri gayet ileri teşekkür ederim indirimde aldım",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2040859/42186271/20072575-1700838511652.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2040859/42186271/20072575-1700838512307.jpeg"
+        ]
+    },
+    {
+        "author": "F** S**",
+        "rating": 5,
+        "date": "15 Nisan 2023",
+        "comment": "çok lezzetli bundan sonra indirimde stok yaparim",
+        "images": []
+    },
+    {
+        "author": "B** G**",
+        "rating": 5,
+        "date": "27 Kasım 2023",
+        "comment": "Güzel paketleme ürün zaten ço güzel teşekkürler",
+        "images": []
+    },
+    {
+        "author": "N** C** Ç**",
+        "rating": 5,
+        "date": "24 Eylül 2023",
+        "comment": "mükemmel bir cikolata",
+        "images": []
+    },
+    {
+        "author": "M** Ç**",
+        "rating": 5,
+        "date": "16 Ekim 2022",
+        "comment": "Severek alıyoruz bittikçe",
+        "images": []
+    },
+    {
+        "author": "G** V**",
+        "rating": 5,
+        "date": "03 Ocak 2023",
+        "comment": "eklere pastalara harika yakışıyor, orijinal paketinde geliyor tavsiye ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2019922/42186271/23150437-1672745103503.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "01 Ekim 2023",
+        "comment": "Çok lezzetli harika sütlü, ruby ve bitter de aldım hepsi çok güzeldi",
+        "images": []
+    },
+    {
+        "author": "Basak K. D.",
+        "rating": 5,
+        "date": "16 Şubat 2023",
+        "comment": "Tadı harika. Dışarıda çikolatalı waffle yemeye son.Paketleme güzeldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2018925/2032883/42186271/1326015-1676573473531.jpeg"
+        ]
+    },
+    {
+        "author": "Ibrahim A.",
+        "rating": 5,
+        "date": "18 Ekim 2023",
+        "comment": "10 yıldız bile verilir mükemmel tadı",
+        "images": []
+    },
+    {
+        "author": "a** y**",
+        "rating": 5,
+        "date": "25 Ocak 2023",
+        "comment": "Çok lezzetli tereddüt etmeyin",
+        "images": []
+    },
+    {
+        "author": "V** B**",
+        "rating": 5,
+        "date": "03 Ekim 2023",
+        "comment": "kesinlikle çok güzel tavsiye ederim",
+        "images": []
+    },
+    {
+        "author": "L** O**",
+        "rating": 5,
+        "date": "24 Nisan 2023",
+        "comment": "Tadı çok güzel 😍 çikolatalı çilek yapmak için aldım çok güzel ve lezzetli oldu ❤️",
+        "images": []
+    },
+    {
+        "author": "a** k**",
+        "rating": 5,
+        "date": "21 Temmuz 2025",
+        "comment": "bu çikolatayı çok sevdim herkese alması için öneriyorum",
+        "images": []
+    },
+    {
+        "author": "A** B**",
+        "rating": 5,
+        "date": "07 Temmuz 2025",
+        "comment": "marka zaten çok iyi.Satıcıya paketleme ve kargolama için çok teşekkür ediyorum..Hayırlı işleriniz olsun.",
+        "images": []
+    },
+    {
+        "author": "Y** Ş** A**",
+        "rating": 5,
+        "date": "09 Mayıs 2024",
+        "comment": "1.sınıf paketleme ve orjinal lezzet",
+        "images": []
+    },
+    {
+        "author": "Vildan C.",
+        "rating": 4,
+        "date": "11 Şubat 2025",
+        "comment": "malzemeler çok kaliteli ve lezzetli teşekkürler",
+        "images": []
+    },
+    {
+        "author": "T** A**",
+        "rating": 5,
+        "date": "01 Nisan 2023",
+        "comment": "Güzel paketlenmiş ürün kaliteli",
+        "images": []
+    },
+    {
+        "author": "Ünzile T.",
+        "rating": 5,
+        "date": "24 Mayıs 2025",
+        "comment": "sen bir harikasın çok lezzetli",
+        "images": []
+    },
+    {
+        "author": "a** V**",
+        "rating": 5,
+        "date": "29 Mart 2023",
+        "comment": "Tadı kalitesi ile mükemmel bir ürün",
+        "images": []
+    },
+    {
+        "author": "S** I**",
+        "rating": 5,
+        "date": "22 Mart 2023",
+        "comment": "en iyi çikolata",
+        "images": []
+    },
+    {
+        "author": "E** G**",
+        "rating": 5,
+        "date": "08 Mart 2023",
+        "comment": "Öncelikle geçmiş olsun dileklerimi iletmek istiyorum. İşinizi hala özenli bir şekilde yaptığınız içinde ayrıca teşekkür ediyorum.bol kazançlar.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2024907/42186271/11553764-1678259463228.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2024907/42186271/11553764-1678259462519.jpeg"
+        ]
+    },
+    {
+        "author": "M** V**",
+        "rating": 5,
+        "date": "12 Mayıs 2023",
+        "comment": "Çok iyi belçika çikolatası",
+        "images": []
+    },
+    {
+        "author": "Y** D**",
+        "rating": 5,
+        "date": "03 Mayıs 2023",
+        "comment": "paketleme güzeldi kargo hızlı geldi",
+        "images": []
+    },
+    {
+        "author": "A** E**",
+        "rating": 4,
+        "date": "16 Ekim 2024",
+        "comment": "Paketlenmesi güzeldi",
+        "images": []
+    },
+    {
+        "author": "İ** Ş**",
+        "rating": 5,
+        "date": "28 Kasım 2023",
+        "comment": "Gayet kaliteli yumuşacık",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2027898/2044847/42186271/16386260-1701159161763.jpeg"
+        ]
+    },
+    {
+        "author": "A** Y**",
+        "rating": 5,
+        "date": "26 Mart 2023",
+        "comment": "tek kelime ile harika bir çikolata 😊",
+        "images": []
+    },
+    {
+        "author": "E** A**",
+        "rating": 5,
+        "date": "23 Haziran 2025",
+        "comment": "Ürünü zaten biliyordum. Karyolama da çok iyiydi satıcı da özenliydi. Cumartesi siparişim kargolandı araya Pazar girdi Pazartesi teslim edildi. Yaz olduğu için köpük kutuya yanında soğutucu jel ile konmuş. Hiç erimeden ulaştı. Teşekkürler.",
+        "images": []
+    },
+    {
+        "author": "N** O**",
+        "rating": 4,
+        "date": "26 Ocak 2025",
+        "comment": "efsane çikolata",
+        "images": []
+    },
+    {
+        "author": "Gülay K.",
+        "rating": 5,
+        "date": "01 Temmuz 2024",
+        "comment": "Daha öncede alışveriş yapmıştım çok teşekkür ederim paketleme vs harika buz poşeti bile koyuyorlar işini hakkıyla yapanlardan razıyız.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2018925/42186271/14374066-1719844924833.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2018925/42186271/14374066-1719844925434.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2024907/2018925/42186271/14374066-1719844925901.jpeg"
+        ]
+    },
+    {
+        "author": "Y** G**",
+        "rating": 5,
+        "date": "14 Haziran 2025",
+        "comment": "tadi harika daha oncede sütlü çikolatasini almistim ve harika kargo yapılmış erimesin diye icinde bu koymuslar savaşa geldi cok ozenli geldi herkese tavsiye ederim",
+        "images": [
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2024907/2032883/42186271/17653704-1749909056424.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2024907/2032883/42186271/17653704-1749909055754.jpeg",
+            "https://cdn.dsmcdn.com/prod-product-review-media_1749859208957/img/2018925/2024907/2032883/42186271/17653704-1749909057164.jpeg"
+        ]
+    },
+    {
+        "author": "ç** ö**",
+        "rating": 5,
+        "date": "07 Mayıs 2023",
+        "comment": "Beyaz cıkolata favorımmm sımdı gozum rubyde",
+        "images": []
+    },
+    {
+        "author": "G** Ç**",
+        "rating": 5,
+        "date": "01 Mart 2025",
+        "comment": "enfes kaliteli",
+        "images": []
+    },
+    {
+        "author": "D** A** A**",
+        "rating": 5,
+        "date": "24 Ekim 2023",
+        "comment": "Tatlılarımda severek kullanıyorum çok lezzetli bi ürün 🙏🏻",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2026901/2040859/42186271/11704946-1698095102694.jpeg"
+        ]
+    },
+    {
+        "author": "T** E**",
+        "rating": 5,
+        "date": "28 Ağustos 2022",
+        "comment": "Ürünü beyaz çikolata olarak sipariş ettim sütlü geldi ama çok lezzetliydi. Tavsiye ederim",
+        "images": []
+    },
+    {
+        "author": "N** G**",
+        "rating": 5,
+        "date": "05 Haziran 2024",
+        "comment": "Cok guzel erimeden gelmis",
+        "images": []
+    },
+    {
+        "author": "D** Ç**",
+        "rating": 5,
+        "date": "15 Aralık 2022",
+        "comment": "çok güzeldi kaliteli tat",
+        "images": []
+    },
+    {
+        "author": "S** B**",
+        "rating": 5,
+        "date": "05 Aralık 2023",
+        "comment": "çok guzel bı tqt",
+        "images": []
+    },
+    {
+        "author": "z** t**",
+        "rating": 5,
+        "date": "19 Mart 2023",
+        "comment": "tadı çok güzel bundan sonra hep bu markadan alirim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2019922/2035874/42186271/6403690-1679241039880.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "23 Mart 2024",
+        "comment": "Çok güzel teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "N** A**",
+        "rating": 5,
+        "date": "01 Mayıs 2023",
+        "comment": "Bu marka bu kalite tartışılmaz mükemmel",
+        "images": []
+    },
+    {
+        "author": "C** E**",
+        "rating": 5,
+        "date": "12 Aralık 2023",
+        "comment": "Çok lezzetli başka marka almam.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2028895/42186271/12386565-1702371835706.jpeg"
+        ]
+    },
+    {
+        "author": "Z** A** İ**",
+        "rating": 5,
+        "date": "01 Eylül 2024",
+        "comment": "kaliteli çikolata",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2026901/2018925/42186271/17927907-1725194897609.jpeg"
+        ]
+    },
+    {
+        "author": "b** a**",
+        "rating": 4,
+        "date": "30 Ocak 2023",
+        "comment": "Güzel paketlenmiş cabuk ulastı",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2046841/42186271/103553-1675076062131.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "29 Ocak 2025",
+        "comment": "çok korkarak aldım güzelmidir iyimidr diye ama aşırı aşırı begendim çok kalitileli tadından anlaşılıyo ilk deneme olarak 400 gram aldım ama hemen şimdi 1 kglik sepete ekleleyip alıyorum kargoda çok hızlıydı",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2019922/2047838/42186271/39838553-1738098556735.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2018925/2019922/2047838/42186271/39838553-1738098557114.jpeg"
+        ]
+    },
+    {
+        "author": "S** T**",
+        "rating": 5,
+        "date": "22 Şubat 2025",
+        "comment": "Çok güzel. İkinci alışı. 1 dakikada eriyor.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2018925/2020919/2040859/42186271/2057409-1740224135863.jpeg"
+        ]
+    },
+    {
+        "author": "N** E** Ş**",
+        "rating": 5,
+        "date": "30 Mayıs 2023",
+        "comment": "Çok iyi bayıldım teşekkürler",
+        "images": []
+    },
+    {
+        "author": "N** M** K**",
+        "rating": 5,
+        "date": "08 Ocak 2024",
+        "comment": "Callebaıy kalitesi güzel",
+        "images": []
+    },
+    {
+        "author": "M** H**",
+        "rating": 5,
+        "date": "23 Eylül 2024",
+        "comment": "Vazgecilmez cikolatam",
+        "images": []
+    },
+    {
+        "author": "G** İ**",
+        "rating": 5,
+        "date": "23 Kasım 2023",
+        "comment": "Alın aldırın",
+        "images": []
+    },
+    {
+        "author": "Z** K**",
+        "rating": 5,
+        "date": "08 Aralık 2023",
+        "comment": "Çok hoş kaliteli",
+        "images": []
+    },
+    {
+        "author": "A** K**",
+        "rating": 5,
+        "date": "23 Aralık 2023",
+        "comment": "Bittikçe stok yapıyorum çok güzel",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "05 Haziran 2024",
+        "comment": "tadı güzel pastacı kreması için kullandım",
+        "images": []
+    },
+    {
+        "author": "G** G**",
+        "rating": 5,
+        "date": "21 Ağustos 2022",
+        "comment": "Lezzeti ve kalitesi tartışılmaz Waffle için kullanıyorum",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2023910/2036871/42186271/8488748-1661030760219.jpeg"
+        ]
+    },
+    {
+        "author": "Z** T**",
+        "rating": 5,
+        "date": "06 Kasım 2024",
+        "comment": "Bu cikolata bi harika",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2023910/42186271/25267926-1730887784498.jpeg"
+        ]
+    },
+    {
+        "author": "S** G**",
+        "rating": 5,
+        "date": "11 Haziran 2024",
+        "comment": "Artık başka Marc’a kullanmaz olduk çok kaliteli",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2023910/2028895/42186271/9146448-1718107382862.jpeg"
+        ]
+    },
+    {
+        "author": "Ş** T**",
+        "rating": 5,
+        "date": "07 Mayıs 2024",
+        "comment": "cok guzel tadi.",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2022913/2024907/42186271/4190909-1715061600530.jpeg"
+        ]
+    },
+    {
+        "author": "L** U**",
+        "rating": 5,
+        "date": "18 Aralık 2023",
+        "comment": "Yılbaşı kurabiyesi için aldım lezzeti harika kısa bir sürede teslim edildi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2034877/42186271/15238653-1702919492760.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2034877/42186271/15238653-1702919492376.jpeg"
+        ]
+    }
+]
