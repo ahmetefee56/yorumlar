@@ -1,0 +1,51 @@
+[
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "19 Aralık 2024",
+        "comment": "çok tatlılar , teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "S** A**",
+        "rating": 5,
+        "date": "15 Mart 2025",
+        "comment": "Ben EFE PASTACILIK ğı tebrik ediyorum kazancınız size sonuna kadar helaldir kargo o kadar sağlamki öyle iyi paketliyorlarki zor açıyorum ürünleri kaliteli ikinci veya üçüncü alışverişim çok memnunum keşke daha çok ürününüz olsada daha çok alışveriş yapsam sizden çok teşekkür ederim EFE PASTACILIK",
+        "images": []
+    },
+    {
+        "author": "M** A**",
+        "rating": 5,
+        "date": "10 Ocak 2024",
+        "comment": "Çok güzel ürün",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2018925/2027898/3443419/33154612-1704899507659.jpeg"
+        ]
+    },
+    {
+        "author": "M** M**",
+        "rating": 5,
+        "date": "26 Kasım 2024",
+        "comment": "Güzel beğendim 👍",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2043850/3443419/26017147-1732625422702.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2028895/2043850/3443419/26017147-1732625423286.jpeg"
+        ]
+    },
+    {
+        "author": "Ş** A**",
+        "rating": 5,
+        "date": "29 Kasım 2023",
+        "comment": "beklediğimden daha iyiydi",
+        "images": []
+    },
+    {
+        "author": "y** ö**",
+        "rating": 3,
+        "date": "15 Aralık 2023",
+        "comment": "Dolphin marka diye sipariş verdim farklı bir marka geldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2028895/2031886/3443419/11047115-1702633184182.jpeg"
+        ]
+    }
+]
