@@ -1,0 +1,25 @@
+[
+    {
+        "author": "A** İ** T**",
+        "rating": 5,
+        "date": "17 Temmuz 2023",
+        "comment": "Şimdiye kadar aldıklarımın içinde en memnun kaldığım vanilya teşekkürler",
+        "images": []
+    },
+    {
+        "author": "G** P**",
+        "rating": 5,
+        "date": "07 Şubat 2024",
+        "comment": "Güzel beğendim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2024907/42212249/2655715-1707303256851.jpeg"
+        ]
+    },
+    {
+        "author": "E** Ç**",
+        "rating": 3,
+        "date": "30 Aralık 2024",
+        "comment": "Ürünün dışı plastik. Paketleme kötü 2si de akmış.",
+        "images": []
+    }
+]
