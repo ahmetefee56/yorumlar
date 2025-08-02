@@ -1,0 +1,30 @@
+[
+    {
+        "author": "S** Ö** D**",
+        "rating": 5,
+        "date": "02 Temmuz 2023",
+        "comment": "Yıllardır severek kullandığım bir ürün. Ev yapımı çikolata ve fındık kremalarında gayet başarılı.",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "18 Haziran 2023",
+        "comment": "Çok lezzetli ve kaliteli",
+        "images": []
+    },
+    {
+        "author": "G** A** D**",
+        "rating": 5,
+        "date": "02 Haziran 2023",
+        "comment": "Kullandığım ürün çok memnunum 👍",
+        "images": []
+    },
+    {
+        "author": "İ** D**",
+        "rating": 5,
+        "date": "21 Mayıs 2024",
+        "comment": "tam istediğim ürün hızlı kargo ile memnun kaldım",
+        "images": []
+    }
+]
