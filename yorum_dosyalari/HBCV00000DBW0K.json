@@ -1,0 +1,67 @@
+[
+    {
+        "author": "S** S**",
+        "rating": 5,
+        "date": "08 Ocak 2023",
+        "comment": "İkinci tur alıyorum tatlılarda kullanıyorum kalitesi gerçekten harika",
+        "images": []
+    },
+    {
+        "author": "N** O**",
+        "rating": 5,
+        "date": "29 Ekim 2022",
+        "comment": "çok iyi tavsiye ederim",
+        "images": []
+    },
+    {
+        "author": "E** U**",
+        "rating": 5,
+        "date": "06 Kasım 2022",
+        "comment": "Çikolataların hepsi çok güzel geldi 🥰",
+        "images": []
+    },
+    {
+        "author": "C** K**",
+        "rating": 5,
+        "date": "14 Aralık 2022",
+        "comment": "Çikolatalara söylenecek söz yok alınabilecek en mükemmel çikolata",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2029892/106867031/14725959-1671044876490.jpeg"
+        ]
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "21 Kasım 2023",
+        "comment": "Gayet hizli geldi cikolata alimlarimi hep buradan yapiyorum memnunum",
+        "images": []
+    },
+    {
+        "author": "N** C**",
+        "rating": 5,
+        "date": "25 Aralık 2024",
+        "comment": "Sürekli aldığım firma hiç sorun yaşamadım",
+        "images": []
+    },
+    {
+        "author": "e** g**",
+        "rating": 5,
+        "date": "05 Kasım 2022",
+        "comment": "Harika hızlı geldi teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "M** S**",
+        "rating": 5,
+        "date": "25 Ocak 2024",
+        "comment": "Hiç düşünmeden alın derim bayıldım",
+        "images": []
+    },
+    {
+        "author": "m** a**",
+        "rating": 5,
+        "date": "30 Temmuz 2025",
+        "comment": "Özenli paketleme, hızlı kargo. Teşekkürler",
+        "images": []
+    }
+]
