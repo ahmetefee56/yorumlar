@@ -1,0 +1,32 @@
+[
+    {
+        "author": "M** E**",
+        "rating": 5,
+        "date": "06 Kasım 2023",
+        "comment": "satıcının ilgisinden dolayı öncelikle çok teşekkür ederim. kalıplar çok güzel tavsiye ederim.",
+        "images": []
+    },
+    {
+        "author": "M** A**",
+        "rating": 5,
+        "date": "10 Ocak 2024",
+        "comment": "Çok güzel ürün",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2018925/2027898/123562699/33154612-1704899519398.jpeg"
+        ]
+    },
+    {
+        "author": "İ** K**",
+        "rating": 3,
+        "date": "08 Eylül 2024",
+        "comment": "Bekkediğimdwn küçük",
+        "images": []
+    },
+    {
+        "author": "Z** Ç**",
+        "rating": 4,
+        "date": "12 Ocak 2025",
+        "comment": "güzel için yapışmaz gibi henüz kullanamadım ama fiyat bir tık pahalı bence",
+        "images": []
+    }
+]
