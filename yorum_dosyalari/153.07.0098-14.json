@@ -1,0 +1,43 @@
+[
+    {
+        "author": "G** D** Y**",
+        "rating": 5,
+        "date": "06 Ocak 2023",
+        "comment": "pastamizda kullandık gayet güzeldi",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2022913/120956583/14219833-1673003623195.jpeg"
+        ]
+    },
+    {
+        "author": "z** Z**",
+        "rating": 5,
+        "date": "27 Ocak 2023",
+        "comment": "Kaliteli ürün",
+        "images": []
+    },
+    {
+        "author": "S** B**",
+        "rating": 5,
+        "date": "10 Ocak 2023",
+        "comment": "Bu marka şahane",
+        "images": []
+    },
+    {
+        "author": "E** K**",
+        "rating": 4,
+        "date": "18 Aralık 2024",
+        "comment": "Cok begendik guzel",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2029892/2035874/120956583/34134713-1734515375110.jpeg"
+        ]
+    },
+    {
+        "author": "T** A**",
+        "rating": 5,
+        "date": "26 Aralık 2022",
+        "comment": "urunlerden gayet memnun kaldim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2027898/2041856/120956583/4591563-1672065679722.jpeg"
+        ]
+    }
+]
