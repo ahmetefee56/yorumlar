@@ -1,0 +1,39 @@
+[
+    {
+        "author": "A** b**",
+        "rating": 5,
+        "date": "14 Nisan 2023",
+        "comment": "mükemmel kalite",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "01 Ekim 2023",
+        "comment": "bir aşçı nin elinde olması gereken bir takım keskin ve ideal",
+        "images": []
+    },
+    {
+        "author": "Elif K.",
+        "rating": 5,
+        "date": "26 Mayıs 2023",
+        "comment": "Harika bir ürün",
+        "images": []
+    },
+    {
+        "author": "İ** G**",
+        "rating": 5,
+        "date": "26 Temmuz 2024",
+        "comment": "güzel ürün",
+        "images": []
+    },
+    {
+        "author": "U** Ö**",
+        "rating": 5,
+        "date": "20 Eylül 2022",
+        "comment": "çok kısa sürede elime ulaştı özenli paketleme",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2015934/2024907/2035874/32393471/50280380-1663668486445.jpeg"
+        ]
+    }
+]
