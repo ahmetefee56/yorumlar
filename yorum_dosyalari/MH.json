@@ -1,0 +1,66 @@
+[
+    {
+        "author": "E** A**",
+        "rating": 5,
+        "date": "29 Eylül 2023",
+        "comment": "Okadar güzelki tadı çok beğendim hızlı ve güzel paketleme sağlam elime ulaştı",
+        "images": []
+    },
+    {
+        "author": "T** G**",
+        "rating": 5,
+        "date": "26 Kasım 2022",
+        "comment": "Her zaman alıyorum gayet güzel teşekkür ederim",
+        "images": []
+    },
+    {
+        "author": "k** k**",
+        "rating": 5,
+        "date": "13 Şubat 2024",
+        "comment": "Hızlı teslimat ve paketleme çok güzel di teşekkür ederim",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2030889/119708326/10343025-1707814832490.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2030889/119708326/10343025-1707814832935.jpeg",
+            "https://review-rating.mncdn.com/prod/img/2017928/2019922/2030889/119708326/10343025-1707814832041.jpeg"
+        ]
+    },
+    {
+        "author": "K** A**",
+        "rating": 5,
+        "date": "01 Eylül 2022",
+        "comment": "Ürünlerin tadı çok güzel",
+        "images": []
+    },
+    {
+        "author": "**** ****",
+        "rating": 5,
+        "date": "12 Ocak 2023",
+        "comment": "kaliteli ve sağlam geldi",
+        "images": []
+    },
+    {
+        "author": "N** U**",
+        "rating": 5,
+        "date": "07 Ocak 2023",
+        "comment": "tatlı yaparken çok memnun kaldım",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2017928/2023910/119708326/6054983-1673044269622.jpeg"
+        ]
+    },
+    {
+        "author": "T** K**",
+        "rating": 5,
+        "date": "25 Nisan 2023",
+        "comment": "gayet güzel",
+        "images": []
+    },
+    {
+        "author": "E** S**",
+        "rating": 5,
+        "date": "04 Nisan 2023",
+        "comment": "Tadı güxel..",
+        "images": [
+            "https://review-rating.mncdn.com/prod/img/2016931/2020919/2020919/119708326/6417051-1680639751754.jpeg"
+        ]
+    }
+]
